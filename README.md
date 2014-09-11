@@ -1,10 +1,11 @@
 #blog.andersos.net
 
 The personal blog of @Andersos
+It can be found at http://andersos.github.io/blog.andersos.net/
 
 ## Run it locally
 
-We are using Jekyll http://jekyllrb.com/
+I am using Jekyll http://jekyllrb.com/
 
 The following command builds the site and runs it on localhost:4000
 
@@ -13,10 +14,3 @@ jekyll serve
 ```
 
 ## Testing
-
-[HTML::Proofer](https://github.com/gjtorikian/html-proofer) is set up to validate all links within the project.  You can run this locally to ensure that your changes are valid:
-
-```shell
-bundle install
-bundle exec rake test
-```
