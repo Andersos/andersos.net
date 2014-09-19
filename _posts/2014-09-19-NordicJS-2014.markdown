@@ -63,11 +63,10 @@ Talk: Mostly talks about the Firefox developer tools.
 Speaker: [Emily Rose](https://twitter.com/nexxylove)
 [(Slides)]()
 [(Video)]()  
-Talk: Short talk showing that she made a relative keytar in Node.js.
-Most of the talk is about people playing on it.
+Talk: She made a relative keytar in Node.js. Most of the talk is with people playing on it.
 <blockquote class="twitter-tweet" lang="en"><p>Okay, now <a href="https://twitter.com/pushmatrix">@pushmatrix</a> &amp; <a href="https://twitter.com/nexxylove">@nexxylove</a> are doing interpretative dance to the sound of a relative keytar! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/B6OyTZz3I1">pic.twitter.com/B6OyTZz3I1</a></p>&mdash; Pop Bergqvist (@peppelorum) <a href="https://twitter.com/peppelorum/status/512540043643453440">September 18, 2014</a></blockquote>
 
-### Lunch: Salmon
+### Lunch salmon
 <blockquote class="twitter-tweet" lang="en"><p>Salmon lunch <a href="https://twitter.com/nordicjs">@NordicJS</a> <a href="http://t.co/mlMWbFuatM">pic.twitter.com/mlMWbFuatM</a></p>&mdash; Anders Olsen Sandvik (@Andersos) <a href="https://twitter.com/Andersos/status/512901701565558785">September 19, 2014</a></blockquote>
 
 ### ["The fourth dimension"](https://speakerdeck.com/sergi/the-fourth-dimension-an-introduction-to-functional-reactive-programming)
@@ -82,15 +81,15 @@ Talk: Functional reactive programming
 Speaker: [Leah Culver](https://twitter.com/leahculver)
 [(Slides)](https://speakerdeck.com/leah/dropbox-apis-for-javascript-developers)
 [(Video)]()  
-Talk: She talked about how to use the [Dropbox](https://www.dropbox.com/) API.
+Talk: She talked about the [Dropbox](https://www.dropbox.com/) API.
 
 ### ["Style Guide Driven UI Design"](https://speakerdeck.com/jina/living-design-systems)
 Speaker: [Jina Bolton](https://twitter.com/jina)
 [(Slides)]()
 [(Video)]()  
-Talks: We do styleguies.
-Would have been nice to hear her talk about how designers and front-end can work better together.
-Or have her talk about tips or lessons learned about doing styleguides.
+Talks: Basically styleguies.
+Would have been nice to hear her talk about how designers and front-end can work better together,
+or have her talk about tips or lessons learned about doing styleguides.
 Single source of truth. [Theo](https://github.com/salesforce-ux/theo)
 <blockquote class="twitter-tweet" lang="en"><p>Nice talk about Style Guides by <a href="https://twitter.com/jina">@jina</a> today at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/iaolkvKB5t">pic.twitter.com/iaolkvKB5t</a></p>&mdash; Joakim Westerlund (@joakwest) <a href="https://twitter.com/joakwest/status/512634079549071360">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>&quot;Theo&quot; styleguide theme generator from <a href="https://twitter.com/jina">@jina</a> talk at <a href="https://twitter.com/hashtag/Nordicjs?src=hash">#Nordicjs</a> <a href="http://t.co/8Yl6Ev4QbK">pic.twitter.com/8Yl6Ev4QbK</a></p>&mdash; Filip Michałowski (@fmmm) <a href="https://twitter.com/fmmm/status/512602040367714304">September 18, 2014</a></blockquote>
@@ -108,7 +107,7 @@ Talks: Feminism.
 Speaker: [Kim Joar Bekkelund](https://twitter.com/kimjoar)
 [(Slides)](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
 [(Video)]()  
-Talk: I think this was todays best keynote. It was about testing and lessons learned.
+Talk: In my humble opinion this was todays best talk. It was about testing and lessons learned.
 <blockquote class="twitter-tweet" lang="en"><p>The most important thing that yours tests do is to fail. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Jesper Petersson (@PeterssonJesper) <a href="https://twitter.com/PeterssonJesper/status/512629979965042688">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>Make sure your tests FAILS when they are supposed to. <a href="https://twitter.com/kimjoar">@kimjoar</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/test?src=hash">#test</a> <a href="https://twitter.com/hashtag/jasmine?src=hash">#jasmine</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kimpa Kofot (@ze7en) <a href="https://twitter.com/ze7en/status/512630789037887489">September 18, 2014</a></blockquote>
 
