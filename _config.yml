@@ -1,15 +1,15 @@
 # Site settings
 title: Andersos
-email: your-email@domain.com
+email: blog@andersos.net
 description: My blog
 baseurl: "/blog.andersos.net" # the subpath of your site, e.g. /blog/
-url: "http://andersos.github.io/blog.andersos.net" # the base hostname & protocol for your site
+url: "https://andersos.github.io/blog.andersos.net" # the base hostname & protocol for your site
 twitter: Andersos
 github: Andersos
-gravatar_url: http://www.gravatar.com/avatar/46f0faa6adca491c96513814e86a3a4f.jpg
+gravatar_url: https://www.gravatar.com/avatar/46f0faa6adca491c96513814e86a3a4f.jpg
 
 # Build settings
 markdown: rdiscount
-permalink: /posts/:title
+permalink: /:title
 rdiscount:
   extensions: [smart]

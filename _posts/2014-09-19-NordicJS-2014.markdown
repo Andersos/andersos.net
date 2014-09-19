@@ -108,7 +108,7 @@ Talks: Feminism.
 ### ["Writing Beautiful JavaScript Tests"](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
 Speaker: [Kim Joar Bekkelund](https://twitter.com/kimjoar)
 [(Slides)](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
-[Video]()  
+[(Video)]()  
 Talk: I think this was todays best keynote. It was about testing and lessons learned.
 <blockquote class="twitter-tweet" lang="en"><p>The most important thing that yours tests do is to fail. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Jesper Petersson (@PeterssonJesper) <a href="https://twitter.com/PeterssonJesper/status/512629979965042688">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>Make sure your tests FAILS when they are supposed to. <a href="https://twitter.com/kimjoar">@kimjoar</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/test?src=hash">#test</a> <a href="https://twitter.com/hashtag/jasmine?src=hash">#jasmine</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kimpa Kofot (@ze7en) <a href="https://twitter.com/ze7en/status/512630789037887489">September 18, 2014</a></blockquote>
