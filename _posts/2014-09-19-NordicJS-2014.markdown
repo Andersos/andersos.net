@@ -142,7 +142,7 @@ Ready for day 2.
 Speaker: [Ellen Sundh](https://twitter.com/ellensundh)
 [(Slides)]()
 [(Video)]()  
-Talk:Arduino, RasperyPI and a big robot claw.
+Talk:Arduino, Raspberry PI and a big robot claw.
 <blockquote class="twitter-tweet" lang="en"><p>Perfect start of day 2 at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>. <a href="https://twitter.com/ellensundh">@ellensundh</a> shows how she built the largest claw machine w. raspberry pi &amp; JS! <a href="http://t.co/c7MEYMx42p">pic.twitter.com/c7MEYMx42p</a></p>&mdash; Daniel Öhrlund (@rockdanne) <a href="https://twitter.com/rockdanne/status/512879064164483072">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>&quot;I use JavaScript on the backend, the frontend and in the hardware.&quot; <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="https://twitter.com/ellensundh">@ellensundh</a> very cool embedded stuff!</p>&mdash; Steen H. Rasmussen (@steenhulthin) <a href="https://twitter.com/steenhulthin/status/512878046156976128">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/ellensundh">@ellensundh</a> going through hardware projects based on <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/raspberrypi?src=hash">#raspberrypi</a> and <a href="https://twitter.com/hashtag/arduino?src=hash">#arduino</a> at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> . Nice with actual code being shown :-)</p>&mdash; Emil Giljam (@eGiljam) <a href="https://twitter.com/eGiljam/status/512879512858537984">September 19, 2014</a></blockquote>
@@ -151,7 +151,7 @@ Talk:Arduino, RasperyPI and a big robot claw.
 Speaker: [Douglas Crockford](http://www.crockford.com/)
 [(Slides)]()
 [(Video)]()  
-Talk:
+Talk: The better parts of ES6
 <blockquote class="twitter-tweet" lang="en"><p>Douglas Crockford!! The Better Parts.<a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/XY2Q3vDaag">pic.twitter.com/XY2Q3vDaag</a></p>&mdash; Lady Zahra (@ZeeJab) <a href="https://twitter.com/ZeeJab/status/512890294279221248">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>ES6 gets proper tail calls. &quot;JS will be a real functional language.&quot; - Douglas Crockford <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Steen H. Rasmussen (@steenhulthin) <a href="https://twitter.com/steenhulthin/status/512890352416870400">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> For that person designing THE future language this is for you, with love from Crockford <a href="http://t.co/NGgoYGuLEx">pic.twitter.com/NGgoYGuLEx</a></p>&mdash; Geries Handal (@gtothesquare) <a href="https://twitter.com/gtothesquare/status/512898387726065664">September 19, 2014</a></blockquote>
@@ -161,7 +161,7 @@ Talk:
 Speaker: [Tiffany Conroy](https://twitter.com/theophani)
 [(Slides)]()
 [(Video)]()  
-Talk:
+Talk: User capabilities.
 <blockquote class="twitter-tweet" lang="en"><p>&quot;If you want to learn something, do a talk about it. You will learn so much!&quot; ~<a href="https://twitter.com/theophani">@theophani</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kristofer Palmvik (@KPalmvik) <a href="https://twitter.com/KPalmvik/status/512912592923553792">September 19, 2014</a></blockquote>
 
 ### ["The Art of the JavaScript Metaobject Protocol"]()
@@ -176,7 +176,7 @@ Talk:
 Speaker: [Kassandra Perch](https://twitter.com/nodebotanist)
 [(Slides)](http://slides.com/kperch/stop-the-fanaticism-nordicjs#/)
 [(Video)]()  
-Talk:
+Talk: 
 <blockquote class="twitter-tweet" lang="en"><p>Spot on talk by <a href="https://twitter.com/nodebotanist">@nodebotanist</a> regarding fw-hate. It’s a hot topic during the breaks at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>. Use the right tool for the right purpose.</p>&mdash; Patrik Wibron (@wibron) <a href="https://twitter.com/wibron/status/512958098726588416">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>Best talk yet by <a href="https://twitter.com/kassandra_perch">@kassandra_perch</a> / <a href="https://twitter.com/nodebotanist">@nodebotanist</a>, bashing Crockford&#39;s fanatism totally! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Martin Kurtsson (@mkson) <a href="https://twitter.com/mkson/status/512955597684490240">September 19, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/nodebotanist">@nodebotanist</a> is really delivering! Awesome talk about having an open mind about tools or frameworks that you may not like <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Elin Nilsson (@hejelinnilsson) <a href="https://twitter.com/hejelinnilsson/status/512957131025551360">September 19, 2014</a></blockquote>
