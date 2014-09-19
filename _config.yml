@@ -3,7 +3,7 @@ title: Andersos
 email: your-email@domain.com
 description: My blog
 baseurl: "/blog.andersos.net/" # the subpath of your site, e.g. /blog/
-url: "http://andersos.github.io/blog.andersos.net/" # the base hostname & protocol for your site
+url: "http://andersos.github.io/blog.andersos.net" # the base hostname & protocol for your site
 twitter: Andersos
 github: Andersos
 gems:
