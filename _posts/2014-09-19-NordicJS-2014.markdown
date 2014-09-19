@@ -3,7 +3,7 @@ layout: post
 title: NordicJS 2014
 category: Javascript, Conference
 ---
-## If you just want the slides you can get them here
+## List of slides
 
 ### Day 1
 [Robert Nyman](https://twitter.com/robertnyman): ["Keynote: Five Stages of Development"](http://www.slideshare.net/robnyman/five-stages-of-development-nordicjs)  
@@ -87,10 +87,7 @@ Talk: She talked about the [Dropbox](https://www.dropbox.com/) API.
 Speaker: [Jina Bolton](https://twitter.com/jina)
 [(Slides)]()
 [(Video)]()  
-Talks: Basically styleguies.
-Would have been nice to hear her talk about how designers and front-end can work better together,
-or have her talk about tips or lessons learned about doing styleguides.
-Single source of truth. [Theo](https://github.com/salesforce-ux/theo)
+Talks: Basically style guides. Single source of truth. [Theo](https://github.com/salesforce-ux/theo)
 <blockquote class="twitter-tweet" lang="en"><p>Nice talk about Style Guides by <a href="https://twitter.com/jina">@jina</a> today at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/iaolkvKB5t">pic.twitter.com/iaolkvKB5t</a></p>&mdash; Joakim Westerlund (@joakwest) <a href="https://twitter.com/joakwest/status/512634079549071360">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>&quot;Theo&quot; styleguide theme generator from <a href="https://twitter.com/jina">@jina</a> talk at <a href="https://twitter.com/hashtag/Nordicjs?src=hash">#Nordicjs</a> <a href="http://t.co/8Yl6Ev4QbK">pic.twitter.com/8Yl6Ev4QbK</a></p>&mdash; Filip Michałowski (@fmmm) <a href="https://twitter.com/fmmm/status/512602040367714304">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>Theo: a theme token npm module. Sass, less, stylus, aura, etc. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="https://twitter.com/hashtag/styleguide?src=hash">#styleguide</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a></p>&mdash; Emil Wall (@erif89) <a href="https://twitter.com/erif89/status/512600697876283392">September 18, 2014</a></blockquote>
@@ -114,7 +111,7 @@ Talk: In my humble opinion this was todays best talk. It was about testing and l
 ### Lightning talks
 
 #### Lightning talk 1
-Talk: Beers.js
+Talk: <a href="https://github.com/Mumakil/beers.js">Beers.js</a>
 <blockquote class="twitter-tweet" lang="en"><p>The beers.js framework from my lightning talk <a href="https://twitter.com/nordicjs">@nordicjs</a> <a href="https://t.co/ovoMhOAVMj">https://t.co/ovoMhOAVMj</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Otto Vehviläinen (@Mumakil) <a href="https://twitter.com/Mumakil/status/512636866466549760">September 18, 2014</a></blockquote>
 
 #### Lightning talk 2
@@ -131,9 +128,7 @@ Talk: @KidsHackDay
 #### Lightning talk 5
 Talk: RFID Thing
 
-Festen! - Dinner and Party
-
-Trädgården
+Festen! - Dinner and Party @ Trädgården
 <blockquote class="twitter-tweet" lang="en"><p>Best party ever!! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/O4rAiPmMZC">pic.twitter.com/O4rAiPmMZC</a></p>&mdash; Ruben Teijeiro (@rteijeiro) <a href="https://twitter.com/rteijeiro/status/512679265381675008">September 18, 2014</a></blockquote>
 
 ## Day 2
