@@ -6,8 +6,9 @@ baseurl: "/blog.andersos.net" # the subpath of your site, e.g. /blog/
 url: "http://andersos.github.io/blog.andersos.net" # the base hostname & protocol for your site
 twitter: Andersos
 github: Andersos
-gems:
-  - jekyll-sitemap
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
