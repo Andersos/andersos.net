@@ -3,6 +3,9 @@ layout: post
 title: NordicJS 2014
 category: Javascript, Conference
 ---
+So this is my write-up on the NordicJS conference.
+I will update with alle the slides and videos as soon as they are posted.
+
 ## List of slides
 
 ### Day 1
@@ -18,7 +21,7 @@ category: Javascript, Conference
 [Ellen Sundh](https://twitter.com/ellensundh): ["Node.js physical interactions"]()  
 [Douglas Crockford](http://www.crockford.com/): ["The Better Parts"]()  
 [Tiffany Conroy](https://twitter.com/theophani): ["Lions and Tigers and Handling User Capabilities"]()  
-[Reginald Braithwaite](https://twitter.com/raganwald): ["The Art of the JavaScript Metaobject Protocol"]()  
+[Reginald Braithwaite](https://twitter.com/raganwald): ["The Art of the JavaScript Metaobject Protocol"](https://speakerdeck.com/raganwald/duck-typing-compatibility-and-the-adaptor-pattern)  
 [Kassandra Perch](https://twitter.com/nodebotanist): ["Stop the Fanaticism!"]()  
 [Hakim El Hattab](https://twitter.com/hakimel): ["Visual JavaScript Experiments"]()  
 [Tom Dale](https://twitter.com/tomdale): ["The Road to Web Components"]()
@@ -27,8 +30,7 @@ category: Javascript, Conference
 We took some 🚢 (boats) to the conference.
 <blockquote class="twitter-tweet" lang="en"><p>På Cinderellabåt genom Baggensstäket. Trodde inte att det skulle gå faktiskt. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/Z0THWjpXod">pic.twitter.com/Z0THWjpXod</a></p>&mdash; Ann-Cathrin Näsström (@ankan_nasstrom) <a href="https://twitter.com/ankan_nasstrom/status/512500238356340736">September 18, 2014</a></blockquote>
 
-They said there would be breakfast.
-Got a smal cheese bread roll. Tomorrow I'm having breakfast at the hotel.
+Got a small cheese bread roll for breakfast on the boat.
 <blockquote class="twitter-tweet" lang="en"><p>Breakfast bags and coffee in place! Nordic.js day 2 is about to begin. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/3KFrgY7fyD">pic.twitter.com/3KFrgY7fyD</a></p>&mdash; Stefan Hedman (@schteppe) <a href="https://twitter.com/schteppe/status/512840720139304960">September 19, 2014</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>Very beautiful out here. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/QQl9pdDgJy">pic.twitter.com/QQl9pdDgJy</a></p>&mdash; Denis Dervisevic (@iEchuu) <a href="https://twitter.com/iEchuu/status/512860422656241664">September 19, 2014</a></blockquote>
@@ -66,9 +68,6 @@ Speaker: [Emily Rose](https://twitter.com/nexxylove)
 Talk: She made a relative keytar in Node.js. Most of the talk is with people playing on it.
 <blockquote class="twitter-tweet" lang="en"><p>Okay, now <a href="https://twitter.com/pushmatrix">@pushmatrix</a> &amp; <a href="https://twitter.com/nexxylove">@nexxylove</a> are doing interpretative dance to the sound of a relative keytar! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/B6OyTZz3I1">pic.twitter.com/B6OyTZz3I1</a></p>&mdash; Pop Bergqvist (@peppelorum) <a href="https://twitter.com/peppelorum/status/512540043643453440">September 18, 2014</a></blockquote>
 
-### Lunch salmon
-<blockquote class="twitter-tweet" lang="en"><p>Salmon lunch <a href="https://twitter.com/nordicjs">@NordicJS</a> <a href="http://t.co/mlMWbFuatM">pic.twitter.com/mlMWbFuatM</a></p>&mdash; Anders Olsen Sandvik (@Andersos) <a href="https://twitter.com/Andersos/status/512901701565558785">September 19, 2014</a></blockquote>
-
 ### ["The fourth dimension"](https://speakerdeck.com/sergi/the-fourth-dimension-an-introduction-to-functional-reactive-programming)
 Speaker: [Sergi Mansilla](https://twitter.com/sergimansilla)
 [(Slides)](https://speakerdeck.com/sergi/the-fourth-dimension-an-introduction-to-functional-reactive-programming)
@@ -82,6 +81,7 @@ Speaker: [Leah Culver](https://twitter.com/leahculver)
 [(Slides)](https://speakerdeck.com/leah/dropbox-apis-for-javascript-developers)
 [(Video)]()  
 Talk: She talked about the [Dropbox](https://www.dropbox.com/) API.
+<blockquote class="twitter-tweet" lang="en"><p>The Nordic.js scene is a sine wave heightfield.. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/isocsYoGTb">pic.twitter.com/isocsYoGTb</a></p>&mdash; Stefan Hedman (@schteppe) <a href="https://twitter.com/schteppe/status/512689897753161729">September 18, 2014</a></blockquote>
 
 ### ["Style Guide Driven UI Design"](https://speakerdeck.com/jina/living-design-systems)
 Speaker: [Jina Bolton](https://twitter.com/jina)
@@ -141,8 +141,10 @@ Ready for day 2.
 Speaker: [Ellen Sundh](https://twitter.com/ellensundh)
 [(Slides)]()
 [(Video)]()  
-Talk:Arduino RasperyPI and big claw
+Talk:Arduino, RasperyPI and a big robot claw.
 <blockquote class="twitter-tweet" lang="en"><p>Perfect start of day 2 at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>. <a href="https://twitter.com/ellensundh">@ellensundh</a> shows how she built the largest claw machine w. raspberry pi &amp; JS! <a href="http://t.co/c7MEYMx42p">pic.twitter.com/c7MEYMx42p</a></p>&mdash; Daniel Öhrlund (@rockdanne) <a href="https://twitter.com/rockdanne/status/512879064164483072">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>&quot;I use JavaScript on the backend, the frontend and in the hardware.&quot; <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="https://twitter.com/ellensundh">@ellensundh</a> very cool embedded stuff!</p>&mdash; Steen H. Rasmussen (@steenhulthin) <a href="https://twitter.com/steenhulthin/status/512878046156976128">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/ellensundh">@ellensundh</a> going through hardware projects based on <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/raspberrypi?src=hash">#raspberrypi</a> and <a href="https://twitter.com/hashtag/arduino?src=hash">#arduino</a> at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> . Nice with actual code being shown :-)</p>&mdash; Emil Giljam (@eGiljam) <a href="https://twitter.com/eGiljam/status/512879512858537984">September 19, 2014</a></blockquote>
 
 ### ["The Better Parts"]()
 Speaker: [Douglas Crockford](http://www.crockford.com/)
@@ -150,24 +152,32 @@ Speaker: [Douglas Crockford](http://www.crockford.com/)
 [(Video)]()  
 Talk:
 <blockquote class="twitter-tweet" lang="en"><p>Douglas Crockford!! The Better Parts.<a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/XY2Q3vDaag">pic.twitter.com/XY2Q3vDaag</a></p>&mdash; Lady Zahra (@ZeeJab) <a href="https://twitter.com/ZeeJab/status/512890294279221248">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>ES6 gets proper tail calls. &quot;JS will be a real functional language.&quot; - Douglas Crockford <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Steen H. Rasmussen (@steenhulthin) <a href="https://twitter.com/steenhulthin/status/512890352416870400">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Douglas Crockford on stage at <a href="https://twitter.com/hashtag/Nordicjs?src=hash">#Nordicjs</a> talking about ES6 good/bad parts <a href="http://t.co/jHhLMwy8GX">pic.twitter.com/jHhLMwy8GX</a></p>&mdash; Filip Michałowski (@fmmm) <a href="https://twitter.com/fmmm/status/512891853658542080">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>It’s a pleasure listening to Douglas Crockford at <a href="https://twitter.com/nordicjs">@nordicjs</a>&#10;ES6 is going to be fabulous!!&#10;<a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Teo Ljungberg (@teoljungberg) <a href="https://twitter.com/teoljungberg/status/512895492104019968">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> For that person designing THE future language this is for you, with love from Crockford <a href="http://t.co/NGgoYGuLEx">pic.twitter.com/NGgoYGuLEx</a></p>&mdash; Geries Handal (@gtothesquare) <a href="https://twitter.com/gtothesquare/status/512898387726065664">September 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>The key take away from Douglas Crockfords talk: realising and admitting that you are wrong is how you progress. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Henrik Hansson (@hagerhink) <a href="https://twitter.com/hagerhink/status/512904767669272576">September 19, 2014</a></blockquote>
 
 ### ["Lions and Tigers and Handling User Capabilities"]()
 Speaker: [Tiffany Conroy](https://twitter.com/theophani)
 [(Slides)]()
 [(Video)]()  
 Talk:
+<blockquote class="twitter-tweet" lang="en"><p>&quot;If you want to learn something, do a talk about it. You will learn so much!&quot; ~<a href="https://twitter.com/theophani">@theophani</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kristofer Palmvik (@KPalmvik) <a href="https://twitter.com/KPalmvik/status/512912592923553792">September 19, 2014</a></blockquote>
 
 ### ["The Art of the JavaScript Metaobject Protocol"]()
 Speaker: [Reginald Braithwaite](https://twitter.com/raganwald)
-[(Slides)]()
+[(Slides)](https://speakerdeck.com/raganwald/duck-typing-compatibility-and-the-adaptor-pattern)
 [(Video)]()  
 Talk:
+<blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/raganwald">@raganwald</a> on stage at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/Ye2kntljJu">http://t.co/Ye2kntljJu</a> <a href="http://t.co/2g3ZHMHAM2">pic.twitter.com/2g3ZHMHAM2</a></p>&mdash; Nordic.js (@nordicjs) <a href="https://twitter.com/nordicjs/status/512936090601148416">September 19, 2014</a></blockquote>
 
 ### ["Stop the Fanaticism!"]()
 Speaker: [Kassandra Perch](https://twitter.com/nodebotanist)
 [(Slides)]()
 [(Video)]()  
 Talk:
+<blockquote class="twitter-tweet" lang="en"><p>Spot on talk by <a href="https://twitter.com/nodebotanist">@nodebotanist</a> regarding fw-hate. It’s a hot topic during the breaks at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>. Use the right tool for the right purpose.</p>&mdash; Patrik Wibron (@wibron) <a href="https://twitter.com/wibron/status/512958098726588416">September 19, 2014</a></blockquote>
 
 ### ["Visual JavaScript Experiments"]()
 Speaker: [Hakim El Hattab](https://twitter.com/hakimel)
@@ -180,3 +190,8 @@ Speaker: [Tom Dale](https://twitter.com/tomdale)
 [(Slides)]()
 [(Video)]()  
 Talk:
+
+Yeah and there was lots of <a href="http://en.wikipedia.org/wiki/Fika_(coffee_break)">Fika</a>.
+<blockquote class="twitter-tweet" lang="en"><p>Fika <a href="https://twitter.com/hashtag/NordicJS?src=hash">#NordicJS</a> <a href="http://t.co/QCYCf3SALk">pic.twitter.com/QCYCf3SALk</a></p>&mdash; Anders Olsen Sandvik (@Andersos) <a href="https://twitter.com/Andersos/status/512882886853529600">September 19, 2014</a></blockquote>
+
+Thanks for the conference!
