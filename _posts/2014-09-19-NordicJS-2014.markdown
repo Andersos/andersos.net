@@ -88,6 +88,7 @@ Speaker: [Leah Culver](https://twitter.com/leahculver)
 Speaker: [Jina Bolton](https://twitter.com/jina)
 [(Slides)]()
 [(Video)]()  
+[Theo](https://github.com/salesforce-ux/theo)  
 <!--Talks: Basically style guides. Single source of truth. [Theo](https://github.com/salesforce-ux/theo) -->
 <blockquote class="twitter-tweet" lang="en"><p>Nice talk about Style Guides by <a href="https://twitter.com/jina">@jina</a> today at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/iaolkvKB5t">pic.twitter.com/iaolkvKB5t</a></p>&mdash; Joakim Westerlund (@joakwest) <a href="https://twitter.com/joakwest/status/512634079549071360">September 18, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>&quot;Theo&quot; styleguide theme generator from <a href="https://twitter.com/jina">@jina</a> talk at <a href="https://twitter.com/hashtag/Nordicjs?src=hash">#Nordicjs</a> <a href="http://t.co/8Yl6Ev4QbK">pic.twitter.com/8Yl6Ev4QbK</a></p>&mdash; Filip Michałowski (@fmmm) <a href="https://twitter.com/fmmm/status/512602040367714304">September 18, 2014</a></blockquote>
@@ -123,7 +124,7 @@ Talk: NaCl
 <blockquote class="twitter-tweet" lang="en"><p>Yay! <a href="https://twitter.com/JohanObrink">@JohanObrink</a> från <a href="https://twitter.com/Iteam1337">@Iteam1337</a> pratar om NaCl. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/TQoSTwEdQ4">pic.twitter.com/TQoSTwEdQ4</a></p>&mdash; Martin Loman (@martinloman) <a href="https://twitter.com/martinloman/status/512634791645446144">September 18, 2014</a></blockquote>
 
 #### Lightning talk 4
-Talk: @KidsHackDay
+Talk: <a href="https://twitter.com/@KidsHackDay">@KidsHackDay</a>
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/paulobarcelos">@paulobarcelos</a> and <a href="https://twitter.com/murilopolese">@murilopolese</a> from Oakwood are talking about their involvement in <a href="https://twitter.com/KidsHackDay">@KidsHackDay</a> at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/rjXE5z8LfT">pic.twitter.com/rjXE5z8LfT</a></p>&mdash; Oakwood Creative (@oakwoodcreative) <a href="https://twitter.com/oakwoodcreative/status/512638895134355456">September 18, 2014</a></blockquote>
 
 #### Lightning talk 5
@@ -195,6 +196,20 @@ Speaker: [Tom Dale](https://twitter.com/tomdale)
 [(Slides)]()
 [(Video)]()  
 <!-- Talk: Web components and live coding! -->
+
+#### Lightning talk 6
+Talk:
+
+#### Lightning talk 7
+Talk:
+
+#### Lightning talk 8
+Talk: Acid Rain
+
+#### Lightning talk 9
+Talk: Node.JS and Raspberry Pi.
+#### Lightning talk 10
+Talk: 
 
 <blockquote class="twitter-tweet" lang="en"><p>A tech heavy conference where half of the headliners are <a href="https://twitter.com/hashtag/womenintech?src=hash">#womenintech</a>. Fantastic work, <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>!</p>&mdash; Carl-Erik Kopseng (@kopseng) <a href="https://twitter.com/kopseng/status/512974763191730177">September 19, 2014</a></blockquote>
 
