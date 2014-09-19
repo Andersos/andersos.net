@@ -1,3 +1,8 @@
+---
+layout: post
+title: NordicJS 2014
+category: posts
+---
 # [NordicJS 2014](http://nordicjs.com/)
 Write something about the trip, destination and the conference.
 
@@ -24,25 +29,28 @@ Write something about the trip, destination and the conference.
 ## Day 1 (September 18th 2014)
 We took some 🚢 (boats) to the conference.
 <blockquote class="twitter-tweet" lang="en"><p>På Cinderellabåt genom Baggensstäket. Trodde inte att det skulle gå faktiskt. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/Z0THWjpXod">pic.twitter.com/Z0THWjpXod</a></p>&mdash; Ann-Cathrin Näsström (@ankan_nasstrom) <a href="https://twitter.com/ankan_nasstrom/status/512500238356340736">September 18, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 They said there would be breakfast.
 Got a smal cheese bread roll. Tomorrow I'm having breakfast at the hotel.
 <blockquote class="twitter-tweet" lang="en"><p>Breakfast bags and coffee in place! Nordic.js day 2 is about to begin. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/3KFrgY7fyD">pic.twitter.com/3KFrgY7fyD</a></p>&mdash; Stefan Hedman (@schteppe) <a href="https://twitter.com/schteppe/status/512840720139304960">September 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p>Very beautiful out here. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/QQl9pdDgJy">pic.twitter.com/QQl9pdDgJy</a></p>&mdash; Denis Dervisevic (@iEchuu) <a href="https://twitter.com/iEchuu/status/512860422656241664">September 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Lots of balloons.
+<blockquote class="twitter-tweet" lang="en"><p>and the last nature in focus for this great convention location <a href="https://twitter.com/nordicjs">@nordicjs</a> <a href="https://twitter.com/hashtag/NordicJS?src=hash">#NordicJS</a> <a href="http://t.co/sN324NIsCk">pic.twitter.com/sN324NIsCk</a></p>&mdash; Vinicius Dallacqua (@WebTwitr) <a href="https://twitter.com/WebTwitr/status/512894851440836608">September 19, 2014</a></blockquote>
+
+Lots of balloons 🎉🎈.
 <blockquote class="twitter-tweet" lang="en"><p>Well good morning sweden <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/7wqDL1Rdtx">pic.twitter.com/7wqDL1Rdtx</a></p>&mdash; Graham Gilchrist (@grahamgilchrist) <a href="https://twitter.com/grahamgilchrist/status/512503159215120384">September 18, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Mention the confrancier.
 
+More scenic shots.
+<blockquote class="twitter-tweet" lang="en"><p>Beautiful out here at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/r83vL5YVK9">pic.twitter.com/r83vL5YVK9</a></p>&mdash; Teddy Zetterlund (@teddyzetterlund) <a href="https://twitter.com/teddyzetterlund/status/512594724251656192">September 18, 2014</a></blockquote>
+
 More balloons.
 <blockquote class="twitter-tweet" lang="en"><p>I&#39;m totally having two awesome days at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>! The amount of balloons is just perfect! 👌 <a href="http://t.co/iYm40QuqKN">pic.twitter.com/iYm40QuqKN</a></p>&mdash; Lovisa Dahl (@indiefarmor) <a href="https://twitter.com/indiefarmor/status/512896926115975169">September 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Sweet stage!
+<blockquote class="twitter-tweet" lang="en"><p>Wow. Awesome venue and stage at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>! <a href="http://t.co/iThI5h1pDV">pic.twitter.com/iThI5h1pDV</a></p>&mdash; Peter Müller (@_munter_) <a href="https://twitter.com/_munter_/status/512516652471435266">September 18, 2014</a></blockquote>
 
 ### ["Keynote: Five Stages of Development"](http://www.slideshare.net/robnyman/five-stages-of-development-nordicjs)
 Speaker: [Robert Nyman](https://twitter.com/robertnyman)
@@ -51,7 +59,6 @@ Speaker: [Robert Nyman](https://twitter.com/robertnyman)
 Talk: Mostly talks about the Firefox developer tools.
 
 <blockquote class="twitter-tweet" lang="en"><p>Firefox Dev tools to debug all browsers (yeah well, we&#39;ll see about IE), both desktop and mobile. Awesome! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/is6LYCG5Ap">pic.twitter.com/is6LYCG5Ap</a></p>&mdash; Carl Littke (@CarlLittke) <a href="https://twitter.com/CarlLittke/status/512538813496061952">September 18, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ["TBA"]()
 Speaker: [Emily Rose](https://twitter.com/nexxylove)
@@ -60,23 +67,23 @@ Speaker: [Emily Rose](https://twitter.com/nexxylove)
 Talk: Short talk showing that she made a relative keytar in Node.js.
 Most of the talk is about people playing on it.
 <blockquote class="twitter-tweet" lang="en"><p>Okay, now <a href="https://twitter.com/pushmatrix">@pushmatrix</a> &amp; <a href="https://twitter.com/nexxylove">@nexxylove</a> are doing interpretative dance to the sound of a relative keytar! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/B6OyTZz3I1">pic.twitter.com/B6OyTZz3I1</a></p>&mdash; Pop Bergqvist (@peppelorum) <a href="https://twitter.com/peppelorum/status/512540043643453440">September 18, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Lunch: Salmon
 <blockquote class="twitter-tweet" lang="en"><p>Salmon lunch <a href="https://twitter.com/nordicjs">@NordicJS</a> <a href="http://t.co/mlMWbFuatM">pic.twitter.com/mlMWbFuatM</a></p>&mdash; Anders Olsen Sandvik (@Andersos) <a href="https://twitter.com/Andersos/status/512901701565558785">September 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ["The fourth dimension"](https://speakerdeck.com/sergi/the-fourth-dimension-an-introduction-to-functional-reactive-programming)
 Speaker: [Sergi Mansilla](https://twitter.com/sergimansilla)
 [(Slides)](https://speakerdeck.com/sergi/the-fourth-dimension-an-introduction-to-functional-reactive-programming)
 [(Video)]()  
 Talk: Functional reactive programming
+<blockquote class="twitter-tweet" lang="en"><p>“Programming should be more about the WHAT than about the HOW.” <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Andreas Eldh (@eldh) <a href="https://twitter.com/eldh/status/512567168454492161">September 18, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> reactive programming <a href="http://t.co/DX8WHzabBE">pic.twitter.com/DX8WHzabBE</a></p>&mdash; Sergej (@nonradioactive) <a href="https://twitter.com/nonradioactive/status/512570868447604736">September 18, 2014</a></blockquote>
 
 ### ["Dropbox APIs for JavaScript developers"](https://speakerdeck.com/leah/dropbox-apis-for-javascript-developers)
 Speaker: [Leah Culver](https://twitter.com/leahculver)
 [(Slides)](https://speakerdeck.com/leah/dropbox-apis-for-javascript-developers)
 [(Video)]()  
-Talk: Basically a plug for [Dropbox](https://www.dropbox.com/).
+Talk: She talked about how to use the [Dropbox](https://www.dropbox.com/) API.
 
 ### ["Style Guide Driven UI Design"](https://speakerdeck.com/jina/living-design-systems)
 Speaker: [Jina Bolton](https://twitter.com/jina)
@@ -85,66 +92,71 @@ Speaker: [Jina Bolton](https://twitter.com/jina)
 Talks: We do styleguies.
 Would have been nice to hear her talk about how designers and front-end can work better together.
 Or have her talk about tips or lessons learned about doing styleguides.
-Single source of truth.
+Single source of truth. [Theo](https://github.com/salesforce-ux/theo)
 <blockquote class="twitter-tweet" lang="en"><p>Nice talk about Style Guides by <a href="https://twitter.com/jina">@jina</a> today at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/iaolkvKB5t">pic.twitter.com/iaolkvKB5t</a></p>&mdash; Joakim Westerlund (@joakwest) <a href="https://twitter.com/joakwest/status/512634079549071360">September 18, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p>&quot;Theo&quot; styleguide theme generator from <a href="https://twitter.com/jina">@jina</a> talk at <a href="https://twitter.com/hashtag/Nordicjs?src=hash">#Nordicjs</a> <a href="http://t.co/8Yl6Ev4QbK">pic.twitter.com/8Yl6Ev4QbK</a></p>&mdash; Filip Michałowski (@fmmm) <a href="https://twitter.com/fmmm/status/512602040367714304">September 18, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Theo: a theme token npm module. Sass, less, stylus, aura, etc. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="https://twitter.com/hashtag/styleguide?src=hash">#styleguide</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a></p>&mdash; Emil Wall (@erif89) <a href="https://twitter.com/erif89/status/512600697876283392">September 18, 2014</a></blockquote>
 
 ### ["I'm a feminist and so can you!"]()
 Speaker: [Caroline Drucker](https://twitter.com/Bougie)
 [(Slides)]()
 [(Video)]()  
-Talks:
+Talks: Feminism.
+<blockquote class="twitter-tweet" lang="en"><p>Excellent talk by Caroline Drucker on privilege and equality from a women-in-tech perspektive! <a href="https://twitter.com/Bougie">@bougie</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/6YLqDH8JDU">pic.twitter.com/6YLqDH8JDU</a></p>&mdash; Johanna Gustafsson (@mittistormen) <a href="https://twitter.com/mittistormen/status/512613081017774080">September 18, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Question company culture, or you&#39;ll miss out on diversity. <a href="https://twitter.com/Bougie">@Bougie</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="https://twitter.com/hashtag/techfeminism?src=hash">#techfeminism</a></p>&mdash; Emil Wall (@erif89) <a href="https://twitter.com/erif89/status/512616411915890689">September 18, 2014</a></blockquote>
 
 ### ["Writing Beautiful JavaScript Tests"](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
 Speaker: [Kim Joar Bekkelund](https://twitter.com/kimjoar)
 [(Slides)](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
 [Video]()  
-Talk: I think this was todays best speak about testing and lessons learned.
-https://twitter.com/thematerik/status/512708434819416064
-
+Talk: I think this was todays best keynote. It was about testing and lessons learned.
+<blockquote class="twitter-tweet" lang="en"><p>The most important thing that yours tests do is to fail. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Jesper Petersson (@PeterssonJesper) <a href="https://twitter.com/PeterssonJesper/status/512629979965042688">September 18, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Make sure your tests FAILS when they are supposed to. <a href="https://twitter.com/kimjoar">@kimjoar</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/test?src=hash">#test</a> <a href="https://twitter.com/hashtag/jasmine?src=hash">#jasmine</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kimpa Kofot (@ze7en) <a href="https://twitter.com/ze7en/status/512630789037887489">September 18, 2014</a></blockquote>
 
 ### Lightning talks
 
 #### Lightning talk 1
-Speaker:
 Talk: Beers.js
+<blockquote class="twitter-tweet" lang="en"><p>The beers.js framework from my lightning talk <a href="https://twitter.com/nordicjs">@nordicjs</a> <a href="https://t.co/ovoMhOAVMj">https://t.co/ovoMhOAVMj</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Otto Vehviläinen (@Mumakil) <a href="https://twitter.com/Mumakil/status/512636866466549760">September 18, 2014</a></blockquote>
 
 #### Lightning talk 2
-Speaker:
 Talk:
 
 #### Lightning talk 3
-Speaker:
-Talk: NaCL
+Talk: NaCl
+<blockquote class="twitter-tweet" lang="en"><p>Yay! <a href="https://twitter.com/JohanObrink">@JohanObrink</a> från <a href="https://twitter.com/Iteam1337">@Iteam1337</a> pratar om NaCl. <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/TQoSTwEdQ4">pic.twitter.com/TQoSTwEdQ4</a></p>&mdash; Martin Loman (@martinloman) <a href="https://twitter.com/martinloman/status/512634791645446144">September 18, 2014</a></blockquote>
 
 #### Lightning talk 4
-Speaker:
-Talk: Kids hackathon
+Talk: @KidsHackDay
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/paulobarcelos">@paulobarcelos</a> and <a href="https://twitter.com/murilopolese">@murilopolese</a> from Oakwood are talking about their involvement in <a href="https://twitter.com/KidsHackDay">@KidsHackDay</a> at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/rjXE5z8LfT">pic.twitter.com/rjXE5z8LfT</a></p>&mdash; Oakwood Creative (@oakwoodcreative) <a href="https://twitter.com/oakwoodcreative/status/512638895134355456">September 18, 2014</a></blockquote>
 
-Lightning talk 5
-Speaker:
+#### Lightning talk 5
 Talk: RFID Thing
 
 Festen! - Dinner and Party
 
 Trädgården
+<blockquote class="twitter-tweet" lang="en"><p>Best party ever!! <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/O4rAiPmMZC">pic.twitter.com/O4rAiPmMZC</a></p>&mdash; Ruben Teijeiro (@rteijeiro) <a href="https://twitter.com/rteijeiro/status/512679265381675008">September 18, 2014</a></blockquote>
 
-Day 2
+## Day 2
+
+Ready for day 2.
+<blockquote class="twitter-tweet" lang="en"><p>Great people at this great conference <a href="https://twitter.com/hashtag/NordicJS?src=hash">#NordicJS</a> <a href="http://t.co/uqn7SwnIen">pic.twitter.com/uqn7SwnIen</a></p>&mdash; Vinicius Dallacqua (@WebTwitr) <a href="https://twitter.com/WebTwitr/status/512616967547527169">September 18, 2014</a></blockquote>
 
 
-Title: ["Node.js physical interactions"]
+### ["Node.js physical interactions"]
 Speaker: [Ellen Sundh](https://twitter.com/ellensundh)
 [(Slides)]()
 [(Video)]()  
 Talk:Arduino RasperyPI and big claw
 <blockquote class="twitter-tweet" lang="en"><p>Perfect start of day 2 at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>. <a href="https://twitter.com/ellensundh">@ellensundh</a> shows how she built the largest claw machine w. raspberry pi &amp; JS! <a href="http://t.co/c7MEYMx42p">pic.twitter.com/c7MEYMx42p</a></p>&mdash; Daniel Öhrlund (@rockdanne) <a href="https://twitter.com/rockdanne/status/512879064164483072">September 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Title: ["The Better Parts"]()
+### ["The Better Parts"]()
 Speaker: [Douglas Crockford](http://www.crockford.com/)
 [(Slides)]()
 [(Video)]()  
 Talk:
+<blockquote class="twitter-tweet" lang="en"><p>Douglas Crockford!! The Better Parts.<a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/XY2Q3vDaag">pic.twitter.com/XY2Q3vDaag</a></p>&mdash; Lady Zahra (@ZeeJab) <a href="https://twitter.com/ZeeJab/status/512890294279221248">September 19, 2014</a></blockquote>
 
 ### ["Lions and Tigers and Handling User Capabilities"]()
 Speaker: [Tiffany Conroy](https://twitter.com/theophani)
@@ -158,13 +170,13 @@ Speaker: [Reginald Braithwaite](https://twitter.com/raganwald)
 [(Video)]()  
 Talk:
 
-Title: ["Stop the Fanaticism!"]()
+### ["Stop the Fanaticism!"]()
 Speaker: [Kassandra Perch](https://twitter.com/nodebotanist)
 [(Slides)]()
 [(Video)]()  
 Talk:
 
-Title: ["Visual JavaScript Experiments"]()
+### ["Visual JavaScript Experiments"]()
 Speaker: [Hakim El Hattab](https://twitter.com/hakimel)
 [(Slides)]()
 [(Video)]()  
@@ -175,3 +187,5 @@ Speaker: [Tom Dale](https://twitter.com/tomdale)
 [(Slides)]()
 [(Video)]()  
 Talk:
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
