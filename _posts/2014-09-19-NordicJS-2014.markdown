@@ -1,11 +1,8 @@
 ---
 layout: post
 title: NordicJS 2014
-category: posts
+category: Javascript, Conference
 ---
-# [NordicJS 2014](http://nordicjs.com/)
-Write something about the trip, destination and the conference.
-
 ## If you just want the slides you can get them here
 
 ### Day 1
@@ -41,7 +38,9 @@ Got a smal cheese bread roll. Tomorrow I'm having breakfast at the hotel.
 Lots of balloons 🎉🎈.
 <blockquote class="twitter-tweet" lang="en"><p>Well good morning sweden <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/7wqDL1Rdtx">pic.twitter.com/7wqDL1Rdtx</a></p>&mdash; Graham Gilchrist (@grahamgilchrist) <a href="https://twitter.com/grahamgilchrist/status/512503159215120384">September 18, 2014</a></blockquote>
 
-Mention the confrancier.
+Funny and entertaining host <a href="https://twitter.com/pushmatrix/">@pushmatrix</a>.
+He had lots of creative ways to annonce the next speakers and inform us.
+<blockquote class="twitter-tweet" lang="en"><p>Want to buy the shirt I’m wearing at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>? <a href="http://t.co/zKKHMuL3nA">http://t.co/zKKHMuL3nA</a>!There’s a discount code in your bag <a href="http://t.co/6VkEfdSaV4">pic.twitter.com/6VkEfdSaV4</a></p>&mdash; Daniel Beauchamp (@pushmatrix) <a href="https://twitter.com/pushmatrix/status/512532219504906241">September 18, 2014</a></blockquote>
 
 More scenic shots.
 <blockquote class="twitter-tweet" lang="en"><p>Beautiful out here at <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a> <a href="http://t.co/r83vL5YVK9">pic.twitter.com/r83vL5YVK9</a></p>&mdash; Teddy Zetterlund (@teddyzetterlund) <a href="https://twitter.com/teddyzetterlund/status/512594724251656192">September 18, 2014</a></blockquote>
