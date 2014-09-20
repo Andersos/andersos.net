@@ -209,7 +209,7 @@ Talk: Acid Rain
 #### Lightning talk 9
 Talk: Node.JS and Raspberry Pi.
 #### Lightning talk 10
-Talk: 
+Talk: GooTech
 
 <blockquote class="twitter-tweet" lang="en"><p>A tech heavy conference where half of the headliners are <a href="https://twitter.com/hashtag/womenintech?src=hash">#womenintech</a>. Fantastic work, <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a>!</p>&mdash; Carl-Erik Kopseng (@kopseng) <a href="https://twitter.com/kopseng/status/512974763191730177">September 19, 2014</a></blockquote>
 
