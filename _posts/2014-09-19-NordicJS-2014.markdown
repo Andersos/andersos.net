@@ -20,7 +20,7 @@ I will update with alle the slides and videos as soon as they are posted.
 ### Day 2
 [Ellen Sundh](https://twitter.com/ellensundh): ["Node.js physical interactions"]()  
 [Douglas Crockford](http://www.crockford.com/): ["The Better Parts"]()  
-[Tiffany Conroy](https://twitter.com/theophani): ["Lions and Tigers and Handling User Capabilities"]()  
+[Tiffany Conroy](https://twitter.com/theophani): ["Lions and Tigers and Handling User Capabilities"](https://speakerdeck.com/theophani/lions-and-tiger-and-handling-user-capabilities)  
 [Reginald Braithwaite](https://twitter.com/raganwald): ["The Art of the JavaScript Metaobject Protocol"](https://speakerdeck.com/raganwald/duck-typing-compatibility-and-the-adaptor-pattern)  
 [Kassandra Perch](https://twitter.com/nodebotanist): ["Stop the Fanaticism!"](http://slides.com/kperch/stop-the-fanaticism-nordicjs#/)  
 [Hakim El Hattab](https://twitter.com/hakimel): ["Visual JavaScript Experiments"](http://slides.com/hakim/nordic-js#/)  
@@ -160,7 +160,7 @@ Speaker: [Douglas Crockford](http://www.crockford.com/)
 
 ### ["Lions and Tigers and Handling User Capabilities"]()
 Speaker: [Tiffany Conroy](https://twitter.com/theophani)
-[(Slides)]()
+[(Slides)](https://speakerdeck.com/theophani/lions-and-tiger-and-handling-user-capabilities)
 [(Video)]()  
 <!-- Talk: User capabilities with good UX. -->
 <blockquote class="twitter-tweet" lang="en"><p>&quot;If you want to learn something, do a talk about it. You will learn so much!&quot; ~<a href="https://twitter.com/theophani">@theophani</a> <a href="https://twitter.com/hashtag/nordicjs?src=hash">#nordicjs</a></p>&mdash; Kristofer Palmvik (@KPalmvik) <a href="https://twitter.com/KPalmvik/status/512912592923553792">September 19, 2014</a></blockquote>
