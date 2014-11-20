@@ -13,3 +13,6 @@ markdown: rdiscount
 permalink: /:title
 rdiscount:
   extensions: [smart]
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
