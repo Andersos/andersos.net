@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://blog.andersos.net/sitemap.xml

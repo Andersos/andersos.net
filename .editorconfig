@@ -8,6 +8,3 @@ indent_style = space
 indent_size = 4
 insert_final_newline = false
 trim_trailing_whitespace = true
-
-[*.markdown]
-trim_trailing_whitespace = false

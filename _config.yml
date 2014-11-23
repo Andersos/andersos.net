@@ -1,18 +1,19 @@
-# Site settings
 title: Andersos
 email: blog@andersos.net
 description: My blog
-baseurl: "/blog.andersos.net" # the subpath of your site, e.g. /blog/
-url: "https://andersos.github.io/blog.andersos.net" # the base hostname & protocol for your site
+baseurl: /
 twitter: Andersos
 github: Andersos
 gravatar_url: https://www.gravatar.com/avatar/46f0faa6adca491c96513814e86a3a4f.jpg
 
-# Build settings
-markdown: rdiscount
-permalink: /:title
-rdiscount:
-  extensions: [smart]
+# Jekyll Settings
+timezone: Europe/Oslo
+
+markdown: kramdown
+kramdown:
+  input: GFM
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
 gems:
-    - jekyll-redirect-from
-    - jekyll-sitemap
+  - jekyll-redirect-from
