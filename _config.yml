@@ -5,15 +5,12 @@ baseurl: /
 twitter: Andersos
 github: Andersos
 gravatar_url: https://www.gravatar.com/avatar/46f0faa6adca491c96513814e86a3a4f.jpg
+google_analytics_id: UA-18605626-1
 
 # Jekyll Settings
 timezone: Europe/Oslo
-
 markdown: kramdown
-kramdown:
-  input: GFM
+highlighter: pygments
 paginate: 20
-paginate_path: "page/:num"
-category_dir: categories
 gems:
   - jekyll-redirect-from
