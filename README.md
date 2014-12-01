@@ -15,6 +15,9 @@ bundle exec jekyll serve
 ```
 
 ## Testing
+```shell
+bundle exec htmlproof ./_site
+```
 
 ## TODO
 https://help.github.com/articles/using-jekyll-plugins-with-github-pages/
