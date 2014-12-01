@@ -8,131 +8,76 @@ redirect_from: /2014/09/eldritch-horror-investigator-list.html
 tags:
 - Boardgame
 ---
+# Charlie Kane - The Politician
+<img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />
+"It can be arranged. It's just a matter of acceptable terms."
 
-<div style="-webkit-text-stroke-width: 0px; background-color: white; color: #141823; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15.3599996566772px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;">
-<div data-ft="{&quot;tn&quot;:&quot;H&quot;}">
-<div class="mtm" style="margin-top: 10px;">
-<div class="_5cq3" data-ft="{&quot;tn&quot;:&quot;E&quot;}" style="position: relative;">
-<a ajaxify="https://www.facebook.com/photo.php?fbid=10154229111155724&amp;set=gm.1499450493600269&amp;type=1&amp;src=https%3A%2F%2Fscontent-b-fra.xx.fbcdn.net%2Fhphotos-xfp1%2Fv%2Fl%2Ft1.0-9%2F10390053_10154229111155724_4615521497273107848_n.jpg%3Foh%3D9bb98a08e431312d6ad097655a8c2b48%26oe%3D548838DE&amp;size=289%2C328&amp;player_origin=events" class="_4-eo" href="https://www.facebook.com/photo.php?fbid=10154229111155724&amp;set=gm.1499450493600269&amp;type=1" rel="theater" style="-webkit-box-shadow: rgba(0, 0, 0, 0.0470588) 0px 1px 1px; color: #3b5998; cursor: pointer; display: block; position: relative; text-decoration: none; width: 289px;"></a></div>
-</div>
-</div>
-</div>
-<br />
-<div class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}" style="-webkit-text-stroke-width: 0px; background-color: white; color: #141823; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 1.38; orphans: auto; overflow: hidden; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;">
-<div class="text_exposed_root text_exposed" id="id_540c3c080c72d4d37817096" style="display: inline;">
-<div style="display: block; margin: 0px 0px 6px;">
-Charlie Kane - The Politician<br />
-------------------------------------</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" height="320" width="281" /></a></div>
-<div style="display: block; margin: 0px 0px 6px;">
-<br /></div>
-<div style="display: block; margin: 6px 0px;">
-"It can be arranged. It's just a matter of acceptable terms."</div>
-<div class="text_exposed_show" style="display: inline;">
-<div style="margin: 0px 0px 6px;">
 When the press asks if Charlie is planning a run for national office, he smiles and says the he's focused on the important issues. The truth is that he would love to launch his campaign, but right now the most important issue is preventing the end of the world without causing a panic. To do this, he's been calling in favors across the country. Most recently, Charlie's stopped in San Francisco to visit Hearst Castle. With the help of his friends and his finances, Charlie believes he can fix this problem without sacrificing a single vote.</div>
-<div style="margin: 6px 0px;">
-Health and Sanity<br />
-----------------------</div>
-<div style="margin: 6px 0px;">
-Health: 4<br />
-Sanity: 8</div>
-<div style="margin: 6px 0px;">
-Stats<br />
--------</div>
-<div style="margin: 6px 0px;">
+
+## Health and Sanity
+Health: 4<br>
+Sanity: 8
+
+## Stats
 Lore: 2<br />
 Influence: 4<br />
 Observation: 3<br />
 Strength: 2<br />
-Will: 2</div>
-<div style="margin: 6px 0px;">
-Skills<br />
--------</div>
-<div style="margin: 6px 0px;">
+Will: 2
+
+## Skills
 Starts with 1 Personal Assistant Asset<br />
 Action: Another investigator of your choice may immidiatly perform 1 additional action.<br />
-Passive: When you perform an Acquire Assets action, you may allow other investigators to gain any cards you purchase.</div>
-<div style="margin: 6px 0px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Silas Marsh - The Sailor<br />
-------------------------------</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-opdz-os_NuA/VAw8nOIMDiI/AAAAAAAAbjk/1eu-1bynUSE/s1600/10013642_10154229101455724_1881336522173050394_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-opdz-os_NuA/VAw8nOIMDiI/AAAAAAAAbjk/1eu-1bynUSE/s1600/10013642_10154229101455724_1881336522173050394_n.jpg" /></a></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
-"Leave your fears on the docks, lads. I'll not carry that cargo. The wind is up! Full sail!"</div>
-<div class="text_exposed_show" style="display: inline; line-height: 19.3199996948242px;">
-<div style="margin-bottom: 6px;">
-Even as a child in Innsmouth, Silas had a special connection to the sea. He's an able and well-reasoned man on land, but on the ocean he possesses a singular strength and wit. It's earned him a sterling reputation in every port across the globe, particularly in Sidney, where Silas set ashore last night. But this morning, the smell of the briny air carries dread as well as joy. There is something in his past, something in Innsmouth, that he knows will someday catch up to him.</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Health and Sanity<br />
------------------------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Passive: When you perform an Acquire Assets action, you may allow other investigators to gain any cards you purchase.
+
+# Silas Marsh - The Sailor
+<img src="http://3.bp.blogspot.com/-opdz-os_NuA/VAw8nOIMDiI/AAAAAAAAbjk/1eu-1bynUSE/s1600/10013642_10154229101455724_1881336522173050394_n.jpg" alt="Silas Marsh" height="300" width="262" />
+"Leave your fears on the docks, lads. I'll not carry that cargo. The wind is up! Full sail!"
+
+Even as a child in Innsmouth, Silas had a special connection to the sea. He's an able and well-reasoned man on land, but on the ocean he possesses a singular strength and wit. It's earned him a sterling reputation in every port across the globe, particularly in Sidney, where Silas set ashore last night. But this morning, the smell of the briny air carries dread as well as joy. There is something in his past, something in Innsmouth, that he knows will someday catch up to him.
+
+## Health and Sanity
 Health: 8<br />
-Sanity: 4</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Stats<br />
--------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Sanity: 4
+
+## Stats
 Lore: 1<br />
 Influence: 3<br />
 Observation: 3<br />
 Strength: 3<br />
-Will: 3</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Skills<br />
--------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Will: 3
+
+## Skills
 Starts with 1 Fishing Net Asset<br />
 Action: Move 1 space along a ship path, then perform 1 additional action.<br />
-Passive: If you are on a sea space, investigators on your space roll 1 additional die when resolving tests.</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Trish Scarborough - The Spy<br />
--------------------------------------</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-atLkyxBOSjQ/VAw8u4MVauI/AAAAAAAAbjs/wvf40E6ZMxc/s1600/10356341_10154229093910724_5331798062968391932_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-atLkyxBOSjQ/VAw8u4MVauI/AAAAAAAAbjs/wvf40E6ZMxc/s1600/10356341_10154229093910724_5331798062968391932_n.jpg" height="320" width="306" /></a></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
-"We lie all the time. But the truth is in there. You just have to know how to decode people."</div>
-<div class="text_exposed_show" style="display: inline; line-height: 19.3199996948242px;">
-<div style="margin-bottom: 6px;">
-Everyone expected great things from Trish when she was young. In school, she excelled in athletics and the sciences, but she surprised everyone after graduation by settling into a humble position at a commercial code company. What almost no one knows is that this particular company is a front for the Bureau's code-braking agency, the Black Chamber. Now she finds herself in the city of Krasnoyarsk meeting another agent who has important information about an impending threat from a world beyond our own.</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Health and Sanity<br />
-----------------------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Passive: If you are on a sea space, investigators on your space roll 1 additional die when resolving tests.
+
+# Trish Scarborough - The Spy
+<img  src="http://4.bp.blogspot.com/-atLkyxBOSjQ/VAw8u4MVauI/AAAAAAAAbjs/wvf40E6ZMxc/s1600/10356341_10154229093910724_5331798062968391932_n.jpg" alt="Trish Scarborough" height="320" width="306" />
+"We lie all the time. But the truth is in there. You just have to know how to decode people."
+
+Everyone expected great things from Trish when she was young. In school, she excelled in athletics and the sciences, but she surprised everyone after graduation by settling into a humble position at a commercial code company. What almost no one knows is that this particular company is a front for the Bureau's code-braking agency, the Black Chamber. Now she finds herself in the city of Krasnoyarsk meeting another agent who has important information about an impending threat from a world beyond our own.
+
+## Health and Sanity
 Health: 7<br />
-Sanity: 5</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Stats<br />
--------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Sanity: 5
+
+## Stats
 Lore: 1<br />
 Influence: 3<br />
 Observation: 3<br />
 Strength: 3<br />
-Will: 2</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Skills<br />
-------</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
+Will: 2
+
+## Skills
 Starts with 1 .45 Automatic asset<br />
 Action: If you do not have any Clues, gain 1 Clue<br />
-Passive: If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Akachi Onyele - The Shaman<br />
+Passive: If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.
+
+# Akachi Onyele - The Shaman<br />
 -------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-7VzDYTS9wo4/VAw83jDgERI/AAAAAAAAbj0/SapgN-9t3XU/s1600/10418474_10154229093255724_5268874832616397776_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-7VzDYTS9wo4/VAw83jDgERI/AAAAAAAAbj0/SapgN-9t3XU/s1600/10418474_10154229093255724_5268874832616397776_n.jpg" height="320" width="303" /></a></div>
+<a href="http://4.bp.blogspot.com/-7VzDYTS9wo4/VAw83jDgERI/AAAAAAAAbj0/SapgN-9t3XU/s1600/10418474_10154229093255724_5268874832616397776_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-7VzDYTS9wo4/VAw83jDgERI/AAAAAAAAbj0/SapgN-9t3XU/s1600/10418474_10154229093255724_5268874832616397776_n.jpg" alt="Akachi Onyele" height="320" width="303" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -165,10 +110,11 @@ Passive: When you close a gate during an Other World Encounter, you may move to 
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Leo Anderson - The Expidition Leader<br />
+
+# Leo Anderson - The Expidition Leader<br />
 ------------------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-tYYuA3W3trY/VAw9EgNRXfI/AAAAAAAAbj8/Zdo6zT-Dxyk/s1600/10407696_10154229081085724_1197943849692018887_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-tYYuA3W3trY/VAw9EgNRXfI/AAAAAAAAbj8/Zdo6zT-Dxyk/s1600/10407696_10154229081085724_1197943849692018887_n.jpg" /></a></div>
+<a href="http://1.bp.blogspot.com/-tYYuA3W3trY/VAw9EgNRXfI/AAAAAAAAbj8/Zdo6zT-Dxyk/s1600/10407696_10154229081085724_1197943849692018887_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-tYYuA3W3trY/VAw9EgNRXfI/AAAAAAAAbj8/Zdo6zT-Dxyk/s1600/10407696_10154229081085724_1197943849692018887_n.jpg" alt="Leo Anderson" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -201,10 +147,11 @@ Passive: If you are on a wilderness space, investigators on your space roll 1 ad
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Norman Withers - The Astronomer<br />
+
+# Norman Withers - The Astronomer<br />
 ----------------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-4ppGgP7_jg8/VAw9NHE10bI/AAAAAAAAbkE/hpO8-GUoKXA/s1600/10416639_10154206640740724_5846811357640750220_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-4ppGgP7_jg8/VAw9NHE10bI/AAAAAAAAbkE/hpO8-GUoKXA/s1600/10416639_10154206640740724_5846811357640750220_n.jpg" /></a></div>
+<a href="http://2.bp.blogspot.com/-4ppGgP7_jg8/VAw9NHE10bI/AAAAAAAAbkE/hpO8-GUoKXA/s1600/10416639_10154206640740724_5846811357640750220_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-4ppGgP7_jg8/VAw9NHE10bI/AAAAAAAAbkE/hpO8-GUoKXA/s1600/10416639_10154206640740724_5846811357640750220_n.jpg" alt="Norman Withers" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -237,10 +184,11 @@ Passive: Once per round, you may spend 1 Sanity in place of spending 1 Clue.</di
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Lola Hayes - The Actress<br />
+
+# Lola Hayes - The Actress<br />
 ----------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-8nqWe1nzkM0/VAw9YanrZiI/AAAAAAAAbkM/Q_-xztBk0UE/s1600/1234984_10154203085360724_4649978101426612541_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-8nqWe1nzkM0/VAw9YanrZiI/AAAAAAAAbkM/Q_-xztBk0UE/s1600/1234984_10154203085360724_4649978101426612541_n.jpg" height="320" width="308" /></a></div>
+<a href="http://3.bp.blogspot.com/-8nqWe1nzkM0/VAw9YanrZiI/AAAAAAAAbkM/Q_-xztBk0UE/s1600/1234984_10154203085360724_4649978101426612541_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-8nqWe1nzkM0/VAw9YanrZiI/AAAAAAAAbkM/Q_-xztBk0UE/s1600/1234984_10154203085360724_4649978101426612541_n.jpg" alt="Lola Hayes" height="320" width="308" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -273,10 +221,11 @@ Passive: Once per round, an investigator on your space (including Lola) may roll
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Mark Harrigan - The Soldier<br />
+
+# Mark Harrigan - The Soldier<br />
 -------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-5VRRddqUwMg/VAw9jVVDK2I/AAAAAAAAbkU/iPMd_DutL7g/s1600/10398074_10154203068875724_1451521071111722213_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-5VRRddqUwMg/VAw9jVVDK2I/AAAAAAAAbkU/iPMd_DutL7g/s1600/10398074_10154203068875724_1451521071111722213_n.jpg" height="320" width="320" /></a></div>
+<a href="http://1.bp.blogspot.com/-5VRRddqUwMg/VAw9jVVDK2I/AAAAAAAAbkU/iPMd_DutL7g/s1600/10398074_10154203068875724_1451521071111722213_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-5VRRddqUwMg/VAw9jVVDK2I/AAAAAAAAbkU/iPMd_DutL7g/s1600/10398074_10154203068875724_1451521071111722213_n.jpg" alt="Mark Harrigan" height="320" width="320" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -309,10 +258,11 @@ Passive: You cannot become Delayed or gain a Detained Condition unless you choos
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Lily Chen - The Martial Artist<br />
+
+# Lily Chen - The Martial Artist<br />
 --------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-GmHB5wkkILM/VAw9rwuNA1I/AAAAAAAAbkc/OPxUMve0bVw/s1600/10325209_10154203041550724_6880252976953268608_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-GmHB5wkkILM/VAw9rwuNA1I/AAAAAAAAbkc/OPxUMve0bVw/s1600/10325209_10154203041550724_6880252976953268608_n.jpg" height="320" width="311" /></a></div>
+<a href="http://1.bp.blogspot.com/-GmHB5wkkILM/VAw9rwuNA1I/AAAAAAAAbkc/OPxUMve0bVw/s1600/10325209_10154203041550724_6880252976953268608_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-GmHB5wkkILM/VAw9rwuNA1I/AAAAAAAAbkc/OPxUMve0bVw/s1600/10325209_10154203041550724_6880252976953268608_n.jpg" alt="Lily Chen" height="320" width="311" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -345,10 +295,11 @@ Passive: When you improve a skill, you may immediatly improve that skill again.<
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Jim Culver - The Musician<br />
+
+# Jim Culver - The Musician<br />
 -----------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-yd1mJUzH8H8/VAw92xkBn8I/AAAAAAAAbkk/ssj9mrbYou4/s1600/10411926_10154191182065724_5247700289677110715_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-yd1mJUzH8H8/VAw92xkBn8I/AAAAAAAAbkk/ssj9mrbYou4/s1600/10411926_10154191182065724_5247700289677110715_n.jpg" height="320" width="256" /></a></div>
+<a href="http://2.bp.blogspot.com/-yd1mJUzH8H8/VAw92xkBn8I/AAAAAAAAbkk/ssj9mrbYou4/s1600/10411926_10154191182065724_5247700289677110715_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-yd1mJUzH8H8/VAw92xkBn8I/AAAAAAAAbkk/ssj9mrbYou4/s1600/10411926_10154191182065724_5247700289677110715_n.jpg" alt="Jim Culver" height="320" width="256" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -381,10 +332,11 @@ Passive: Investigators on your space roll 1 additional die when resolving tests 
 <div style="margin-bottom: 6px; margin-top: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Jaqueline Fine - The Psychic<br />
+
+# Jaqueline Fine - The Psychic<br />
 ---------------------------------------</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-HHFOTS5psKY/VAw-DfCD5wI/AAAAAAAAbks/Hu9GI-9NPOE/s1600/10295152_10154187619510724_8881545209780785659_o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-HHFOTS5psKY/VAw-DfCD5wI/AAAAAAAAbks/Hu9GI-9NPOE/s1600/10295152_10154187619510724_8881545209780785659_o.jpg" height="320" width="240" /></a></div>
+<a href="http://4.bp.blogspot.com/-HHFOTS5psKY/VAw-DfCD5wI/AAAAAAAAbks/Hu9GI-9NPOE/s1600/10295152_10154187619510724_8881545209780785659_o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-HHFOTS5psKY/VAw-DfCD5wI/AAAAAAAAbks/Hu9GI-9NPOE/s1600/10295152_10154187619510724_8881545209780785659_o.jpg" alt="Jaqueline Fine" height="320" width="240" /></a></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
 <br /></div>
 <div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
@@ -410,51 +362,27 @@ Skills<br />
 -------<br />
 Starts with 1 Flesh Ward spell and 1 Clue<br />
 Action: You may trade any number of Clues with an investigator on any space.<br />
-Passive: Once per round, when another investigator gains a non-common condition, you may look at the back of that card and gain 1 clue.</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-Diana Stanley - The Redeemed Cultist<br />
----------------------------------------------------</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-3tMRKQVKY-Q/VAw-OlgPZNI/AAAAAAAAbk0/oq7XZGxcv8A/s1600/1969218_10154184744450724_6134708272149517516_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-3tMRKQVKY-Q/VAw-OlgPZNI/AAAAAAAAbk0/oq7XZGxcv8A/s1600/1969218_10154184744450724_6134708272149517516_n.jpg" /></a></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px;">
-<br /></div>
-<div style="line-height: 19.3199996948242px; margin-bottom: 6px; margin-top: 6px;">
-"The Lodge is not as innocent as they pretend. I have learned that nothing is ever as it seems, myself included."</div>
-<div class="text_exposed_show" style="display: inline; line-height: 19.3199996948242px;">
-<div style="margin-bottom: 6px;">
-When Diana was initiated into the "Order of the Silver Twilight", she believed it to be nothing more than a community organization. But as she has learned more of its true nature, she has become convinced that a growing evil threatens the world, and that the Silver Twilight will play a role in that threat. She believes her best chance to prevent this is to use her position to sabotage the organization from within. Carl Sanford, the head of the Order, has recognized her skills and recently sent her to Panama for additional training...</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Health and Sanity<br />
-------------------------<br />
+Passive: Once per round, when another investigator gains a non-common condition, you may look at the back of that card and gain 1 clue.
+
+# Diana Stanley - The Redeemed Cultist
+<img src="http://2.bp.blogspot.com/-3tMRKQVKY-Q/VAw-OlgPZNI/AAAAAAAAbk0/oq7XZGxcv8A/s1600/1969218_10154184744450724_6134708272149517516_n.jpg" alt="Diana Stanley" />
+
+"The Lodge is not as innocent as they pretend. I have learned that nothing is ever as it seems, myself included."
+
+When Diana was initiated into the "Order of the Silver Twilight", she believed it to be nothing more than a community organization. But as she has learned more of its true nature, she has become convinced that a growing evil threatens the world, and that the Silver Twilight will play a role in that threat. She believes her best chance to prevent this is to use her position to sabotage the organization from within. Carl Sanford, the head of the Order, has recognized her skills and recently sent her to Panama for additional training...
+
+## Health and Sanity
 Health: 7<br />
-Sanity: 5</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Stats<br />
-----------<br />
+Sanity: 5
+
+## Stats
 Lore: 4<br />
 Influence: 2<br />
 Observation: 3<br />
 Strength: 3<br />
-Will: 1</div>
-<div style="margin-bottom: 6px; margin-top: 6px;">
-Skills<br />
---------<br />
+Will: 1
+
+## Skills
 Starts with 1 Arcane manuscript and 1 Wither spell.<br />
 Action: If there is a Cultist Monster on your space, discard all monsters on your space or move the Culist Monster to any other space.<br />
-Passive: Reduce the horror of Monsters you encounter to 1.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+Passive: Reduce the horror of Monsters you encounter to 1.
