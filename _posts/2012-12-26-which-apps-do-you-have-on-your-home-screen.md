@@ -11,7 +11,7 @@ tags:
 - Google
 - Google Play Store
 ---
-Apps have been in the wind lately, but those apps that are dearest and most important for us are the apps that are put on our home screen. In this post I will present which apps I have on my home screen (on my <a href="http://blog.andersos.net/2012/09/gadget-samsung-galaxy-nexus.html" target="_blank">Galaxy Nexus</a>) and why they are important to me. I also want to challenge you to share which apps are important to you.<br />
+Apps have been in the wind lately, but those apps that are dearest and most important for us are the apps that are put on our home screen. In this post I will present which apps I have on my home screen (on my Galaxy Nexus) and why they are important to me. I also want to challenge you to share which apps are important to you.<br />
 <div>
 <br /></div>
 <div>
@@ -19,7 +19,7 @@ The bottom row are for the four main apps. I have here chosen to have the phone,
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s1600/Screenshot_2012-12-26-19-28-41.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s640/Screenshot_2012-12-26-19-28-41.png" width="356" /></a></div>
+<a href="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s1600/Screenshot_2012-12-26-19-28-41.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s640/Screenshot_2012-12-26-19-28-41.png" alt="Mainscreen" width="356" /></a></div>
 <h4>
 </h4>
 <h4>
@@ -35,7 +35,7 @@ Forth row<br />
 In this row I have <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.reader" target="_blank">Google Reader</a>, <a href="https://play.google.com/store/apps/details?id=com.twitter.android" target="_blank">Twitter</a>, stock Contacts and <a href="https://play.google.com/store/apps/details?id=ch.teamtasks.tasks.paid" target="_blank">Tasks</a>. Tasks is really nice since it can be used offline. It also syncs with my Google tasks account.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-yS-j1pUTea0/UNtKw_IWr1I/AAAAAAAAQt0/mEZTaAUI1h4/s1600/Screenshot_2012-12-26-19-28-33.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://2.bp.blogspot.com/-yS-j1pUTea0/UNtKw_IWr1I/AAAAAAAAQt0/mEZTaAUI1h4/s640/Screenshot_2012-12-26-19-28-33.png" width="358" /></a></div>
+<a href="http://2.bp.blogspot.com/-yS-j1pUTea0/UNtKw_IWr1I/AAAAAAAAQt0/mEZTaAUI1h4/s1600/Screenshot_2012-12-26-19-28-33.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://2.bp.blogspot.com/-yS-j1pUTea0/UNtKw_IWr1I/AAAAAAAAQt0/mEZTaAUI1h4/s640/Screenshot_2012-12-26-19-28-33.png" alt="Left side" width="358" /></a></div>
 <br /></div>
 <h4>
 </h4>
@@ -53,7 +53,7 @@ Netflix, OneCall app, Endomondo and ZombieRun. The last two apps are used for&nb
 <span style="font-weight: normal;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-_PuShVCoVpE/UNtKzPKoeUI/AAAAAAAAQuE/Uo7cGANtZI4/s1600/Screenshot_2012-12-26-19-28-48.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-_PuShVCoVpE/UNtKzPKoeUI/AAAAAAAAQuE/Uo7cGANtZI4/s640/Screenshot_2012-12-26-19-28-48.png" width="360" /></a></div>
+<a href="http://3.bp.blogspot.com/-_PuShVCoVpE/UNtKzPKoeUI/AAAAAAAAQuE/Uo7cGANtZI4/s1600/Screenshot_2012-12-26-19-28-48.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-_PuShVCoVpE/UNtKzPKoeUI/AAAAAAAAQuE/Uo7cGANtZI4/s640/Screenshot_2012-12-26-19-28-48.png" alt="Screenshot of right side" width="360" /></a></div>
 <span style="font-weight: normal;"><br /></span>
 <br />
 <h4>
