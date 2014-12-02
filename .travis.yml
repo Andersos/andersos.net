@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 rvm:
 - 2.1
-script: .script/cibuild
+script: ./script/cibuild
 branches:
   only:
     gh-pages
