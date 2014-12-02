@@ -3,4 +3,4 @@ cache: bundler
 rvm:
 - 2.1
 before_script: bundle update
-script: script/cibuild
+script: .script/cibuild
