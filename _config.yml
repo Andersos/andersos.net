@@ -6,8 +6,10 @@ baseurl: /
 google_analytics_id: UA-18605626-1
 
 # Jekyll Settings
+exclude: [vendor]
 timezone: Europe/Oslo
 markdown: kramdown
-exclude: [vendor]
+kramdown:
+  input: GFM
 gems:
   - jekyll-redirect-from
