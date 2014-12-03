@@ -1,54 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>
-    {% if page.title %}
-      {{ page.title }} &ndash;
-    {% endif %}
-    {{ site.name }}
-  </title>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
 
-  <meta name="author" content="{{ site.name }}" />
-  <meta name="description" content="{{ site.description }}" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
+    <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
-  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
-  <link rel="stylesheet" href="{{ site.baseurl }}css/base.css" type="text/css" media="screen, projection" />
-  <link rel="stylesheet" href="{{ site.baseurl }}css/pygments.css" type="text/css" />
-  <link media="only screen and (max-device-width: 480px)" href="{{ site.baseurl }}css/mobile.css" type="text/css" rel="stylesheet" />
-  <link media="only screen and (device-width: 768px)" href="{{ site.baseurl }}css/mobile.css" type="text/css" rel="stylesheet" />
-  <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ site.baseurl }}css/base.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="{{ site.baseurl }}css/pygments.css" type="text/css" />
+    <link media="only screen and (max-device-width: 480px)" href="{{ site.baseurl }}css/mobile.css" type="text/css" rel="stylesheet" />
+    <link media="only screen and (device-width: 768px)" href="{{ site.baseurl }}css/mobile.css" type="text/css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <section class="sidebar">
-    <a href="{{ site.baseurl }}">
-      <img src="{{ site.gravatar_url }}?s=75" alt="Picture of Anders Olsen Sandvik" height="75" width="75" class="avatar" />
-    </a>
+    <section class="sidebar">
+        <a href="{{ site.baseurl }}">
+            <img src="{{ site.gravatar_url }}?s=75" alt="Picture of Anders Olsen Sandvik" height="75" width="75" class="avatar" />
+        </a>
 
-    <section class="name">
-      <a href="{{ site.baseurl }}">
-        Anders Olsen Sandvik
-      </a>
+        <section class="name">
+            <a href="{{ site.baseurl }}">
+                Anders Olsen Sandvik
+            </a>
+        </section>
+
+        <section class="meta">
+            <a href="https://github.com/Andersos" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="https://twitter.com/Andersos" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="{{ site.baseurl }}atom.xml"><i class="fa fa-rss"></i></a>
+        </section>
+
+        <section class="sections">
+            <ul>
+                <li><a href="{{ site.baseurl }}about.html">about</a></li>
+                <li><a href="{{ site.baseurl }}">posts</a></li>
+            </ul>
+        </section>
     </section>
 
-    <section class="meta">
-      <a href="https://github.com/{{ site.github}}" target="_blank"><i class="fa fa-github"></i></a>
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
-      <a href="{{ site.baseurl }}atom.xml"><i class="fa fa-rss"></i></a>
-    </section>
-
-    <section class="sections">
-      <ul>
-        <li><a href="{{ site.baseurl }}about.html">about</a></li>
-        <li><a href="{{ site.baseurl }}">posts</a></li>
-      </ul>
-    </section>
-  </section>
-
-  {{ content }}
-  {% include analytics.html %}
+    {{ content }}
+    {% include analytics.html %}
 </body>
 </html>

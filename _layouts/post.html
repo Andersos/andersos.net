@@ -1,33 +1,31 @@
 ---
 layout: default
 ---
-
 <section class="content">
-  <h1>
-    <a href="{{ site.baseurl }}">{{ page.title }}</a>
-  </h1>
-
-  <section class="byline">
-    {{ page.date | date: "%B %e, %Y" }}
-  </section>
-
-  {{ content }}
-
-  <!-- TODO: bio here -->
-  <section class="meta">
-    <h3>Discussion, links, and tweets</h3>
-    <section class="copy">
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
-        <img src="{{ site.gravatar_url }}?s=50" alt="Picture of Anders Olsen Sandvik" height="50" width="50" />
-      </a>
-
-      <p>
-        I'm a fornt-end developer. <a href="https://twitter.com/{{ site.twitter }}" target="_blank">Follow me on Twitter</a>.
-      </p>
-
-      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
-      <a href="http://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter }}</a>
-      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <h1>
+        <a href="{{ site.baseurl }}">{{ page.title }}</a>
+    </h1>
+    <section class="byline">
+        {{ page.date | date: "%B %e, %Y" }}
     </section>
-  </section>
+
+    {{ content }}
+
+    <!-- TODO: bio here -->
+    <section class="meta">
+        <h3>Discussion, links, and tweets</h3>
+        <section class="copy">
+            <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+                <img src="{{ site.gravatar_url }}?s=50" alt="Picture of Anders Olsen Sandvik" height="50" width="50" />
+            </a>
+
+            <p>
+                I'm a fornt-end developer. <a href="https://twitter.com/{{ site.twitter }}" target="_blank">Follow me on Twitter</a>.
+            </p>
+
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
+            <a href="http://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter }}</a>
+            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </section>
+    </section>
 </section>
