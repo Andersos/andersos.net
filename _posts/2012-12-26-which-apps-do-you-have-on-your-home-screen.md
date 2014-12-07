@@ -15,7 +15,7 @@ Apps have been in the wind lately, but those apps that are dearest and most impo
 
 The bottom row are for the four main apps. I have here chosen to have the phone, <a href="https://play.google.com/store/apps/details?id=com.google.android.gm" target="_blank">Gmail</a>, <a href="https://play.google.com/store/apps/details?id=com.facebook.orca" target="_blank">Facebook messenger</a> and the browser <a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank">Chrome</a>. I have setup <a href="http://www.google.com/a" target="_blank">Google Apps</a> on my own domain. That is why I use the Gmail app for mail. I have also started to replace the regular text messaging app with the Facebook app that now also can send sms. My favorite browser is the <a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank">Chrome browser</a>. It easily syncs bookmarks, tabs and web history across devices. It also has simple, fast and minimalistic design.
 
-<img height="640" src="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s640/Screenshot_2012-12-26-19-28-41.png" alt="Mainscreen" width="356" /></a>
+<img height="640" src="http://3.bp.blogspot.com/-VoHmBhVVDgo/UNtKyDsrFSI/AAAAAAAAQt4/etH-nASfSxE/s640/Screenshot_2012-12-26-19-28-41.png" alt="Mainscreen" width="356" />
 
 ## Mainscreen
 
