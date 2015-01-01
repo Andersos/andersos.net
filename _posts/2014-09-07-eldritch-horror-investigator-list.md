@@ -1,13 +1,16 @@
 ---
 layout: post
+comments: true
+author: Anders Olsen Sandvik
 title: Eldritch horror investigator list
 date: 2014-09-07 13:15:00+00:00
-author: Anders Olsen Sandvik
 location: Oslo
 redirect_from: /2014/09/eldritch-horror-investigator-list.html
+thumbnail:
 tags:
 - Boardgame
 ---
+
 # Charlie Kane - The Politician
 
 <img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />

@@ -1,16 +1,19 @@
 ---
 layout: post
+comments: true
+author: Anders Olsen Sandvik
 title: Which apps do you have on your home screen?
 date: 2012-12-26 23:28:00+00:00
-author: Anders Olsen Sandvik
 location: Strømmen
 redirect_from: /2012/12/witch-apps-do-you-have-on-your.html
+thumbnail:
 tags:
 - Android
 - Apps
 - Google
 - Google Play Store
 ---
+
 Apps have been in the wind lately, but those apps that are dearest and most important for us are the apps that are put on our home screen. In this post I will present which apps I have on my home screen (on my Galaxy Nexus) and why they are important to me. I also want to challenge you to share which apps are important to you.
 
 The bottom row are for the four main apps. I have here chosen to have the phone, <a href="https://play.google.com/store/apps/details?id=com.google.android.gm" target="_blank">Gmail</a>, <a href="https://play.google.com/store/apps/details?id=com.facebook.orca" target="_blank">Facebook messenger</a> and the browser <a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank">Chrome</a>. I have setup <a href="http://www.google.com/a" target="_blank">Google Apps</a> on my own domain. That is why I use the Gmail app for mail. I have also started to replace the regular text messaging app with the Facebook app that now also can send sms. My favorite browser is the <a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank">Chrome browser</a>. It easily syncs bookmarks, tabs and web history across devices. It also has simple, fast and minimalistic design.
