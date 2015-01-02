@@ -11,6 +11,19 @@ tags:
 - Boardgame
 ---
 
+- [Charlie Kane - The Politician (4&hearts; 8<span class="blue">☘</span>)](#charlie-kane---the-politician)
+- [Silas Marsh - The Sailor (8&hearts; 4<span class="blue">☘</span>)](#silas-marsh---the-sailor)
+- [Trish Scarborough - The Spy (7&hearts; 5<span class="blue">☘</span>)](#trish-scarborough---the-spy)
+- [Akachi Onyele - The Shaman (5&hearts; 7<span class="blue">☘</span>)](#akachi-onyele---the-shaman)
+- [Leo Anderson - The Expidition Leader (6&hearts; 6<span class="blue">☘</span>)](#leo-anderson---the-expidition-leader)
+- [Norman Withers - The Astronomer (5&hearts; 7<span class="blue">☘</span>)](#norman-withers---the-astronomer)
+- [Lola Hayes - The Actress (5&hearts; 7<span class="blue">☘</span>)](#lola-hayes---the-actress)
+- [Mark Harrigan - The Soldier (8&hearts; 4<span class="blue">☘</span>)](#mark-harrigan---the-soldier)
+- [Lily Chen - The Martial Artist (6&hearts; 6<span class="blue">☘</span>)](#lily-chen---the-martial-artist)
+- [Jim Culver - The Musician (7&hearts; 5<span class="blue">☘</span>)](#jim-culver---the-musician)
+- [Jaqueline Fine - The Psychic (4&hearts; 8<span class="blue">☘</span>)](#jaqueline-fine---the-psychic)
+- [Diana Stanley - The Redeemed Cultist (7&hearts; 5<span class="blue">☘</span>)](#diana-stanley---the-redeemed-cultist)
+
 # Charlie Kane - The Politician
 
 <img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />
