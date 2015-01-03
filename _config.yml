@@ -8,9 +8,6 @@ google_analytics_id: UA-18605626-1
 # Jekyll Settings
 exclude: [vendor]
 timezone: Europe/Oslo
-highlighter: pygments
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
 gems:
   - jekyll-redirect-from
