@@ -43,8 +43,8 @@ I made a calendar so we can keep track of the progress. I also made a calendar f
       <td class="off">31</td>
       <td class="success">1</td>
       <td class="success">2</td>
-      <td>3</td>
-      <td>4</td>
+      <td class="success">3</td>
+      <td class="success">4</td>
     </tr>
     <tr>
       <td>5</td>

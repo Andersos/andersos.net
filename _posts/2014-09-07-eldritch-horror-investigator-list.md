@@ -24,7 +24,7 @@ tags:
 - [Jaqueline Fine - The Psychic (4&hearts; 8☘)](#jaqueline-fine---the-psychic)
 - [Diana Stanley - The Redeemed Cultist (7&hearts; 5☘)](#diana-stanley---the-redeemed-cultist)
 
-# Charlie Kane - The Politician
+# <a name="charlie-kane---the-politician"></a>Charlie Kane - The Politician
 
 <img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />
 
@@ -48,7 +48,7 @@ Starts with 1 Personal Assistant Asset
 Action: Another investigator of your choice may immidiatly perform 1 additional action.
 Passive: When you perform an Acquire Assets action, you may allow other investigators to gain any cards you purchase.
 
-# Silas Marsh - The Sailor
+# <a name="silas-marsh---the-sailor"></a>Silas Marsh - The Sailor
 
 <img src="http://3.bp.blogspot.com/-opdz-os_NuA/VAw8nOIMDiI/AAAAAAAAbjk/1eu-1bynUSE/s1600/10013642_10154229101455724_1881336522173050394_n.jpg" alt="Silas Marsh" height="300" width="262" />
 
@@ -72,7 +72,7 @@ Starts with 1 Fishing Net Asset
 Action: Move 1 space along a ship path, then perform 1 additional action.
 Passive: If you are on a sea space, investigators on your space roll 1 additional die when resolving tests.
 
-# Trish Scarborough - The Spy
+# <a name="trish-scarborough---the-spy"></a>Trish Scarborough - The Spy
 
 <img  src="http://4.bp.blogspot.com/-atLkyxBOSjQ/VAw8u4MVauI/AAAAAAAAbjs/wvf40E6ZMxc/s1600/10356341_10154229093910724_5331798062968391932_n.jpg" alt="Trish Scarborough" height="320" width="306" />
 
@@ -96,7 +96,7 @@ Starts with 1 .45 Automatic asset
 Action: If you do not have any Clues, gain 1 Clue
 Passive: If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.
 
-# Akachi Onyele - The Shaman
+# <a name="akachi-onyele---the-shaman"></a>Akachi Onyele - The Shaman
 
 <img border="0" src="http://4.bp.blogspot.com/-7VzDYTS9wo4/VAw83jDgERI/AAAAAAAAbj0/SapgN-9t3XU/s1600/10418474_10154229093255724_5268874832616397776_n.jpg" alt="Akachi Onyele" height="320" width="303" />
 
@@ -120,7 +120,7 @@ Starts with 1 Mists of Releh Spell and 1 Clue
 Action: Look at the top two gates in the gate stack. Put 1 gate on the top of the gate stack and one at the bottom.
 Passive: When you close a gate during an Other World Encounter, you may move to any space containing a Clue or a Gate.
 
-# Leo Anderson - The Expidition Leader
+# <a name="leo-anderson---the-expidition-leader"></a>Leo Anderson - The Expidition Leader
 
 <img src="http://1.bp.blogspot.com/-tYYuA3W3trY/VAw9EgNRXfI/AAAAAAAAbj8/Zdo6zT-Dxyk/s1600/10407696_10154229081085724_1197943849692018887_n.jpg" alt="Leo Anderson" />
 
@@ -144,7 +144,7 @@ Starts with 1 Hired Muscle Asset
 Action: Test influence. If you pass, gain 1 Ally Asset of your choice from the reserve or discard pile.
 Passive: If you are on a wilderness space, investigators on your space roll 1 additional die when resolving tests.
 
-# Norman Withers - The Astronomer
+# <a name="norman-withers---the-astronomer"></a>Norman Withers - The Astronomer
 
 <img src="http://2.bp.blogspot.com/-4ppGgP7_jg8/VAw9NHE10bI/AAAAAAAAbkE/hpO8-GUoKXA/s1600/10416639_10154206640740724_5846811357640750220_n.jpg" alt="Norman Withers" />
 
@@ -168,7 +168,7 @@ Starts with 1 Feed the Mind Spell
 Action: Spend 2 Clues to discard 1 Monster on a space containing a Gate.
 Passive: Once per round, you may spend 1 Sanity in place of spending 1 Clue.
 
-# Lola Hayes - The Actress
+# <a name="lola-hayes---the-actress"></a>Lola Hayes - The Actress
 
 <img src="http://3.bp.blogspot.com/-8nqWe1nzkM0/VAw9YanrZiI/AAAAAAAAbkM/Q_-xztBk0UE/s1600/1234984_10154203085360724_4649978101426612541_n.jpg" alt="Lola Hayes" height="320" width="308" />
 
@@ -192,7 +192,7 @@ Starts with 1 .18 Derringer and can improve 1 skill of her choice.
 Action: Spend any number of Improvement tokens, then improve 1 skill of your choice for each token spent.
 Passive: Once per round, an investigator on your space (including Lola) may roll 1 additional die when resolving a test.
 
-# Mark Harrigan - The Soldier
+# <a name="mark-harrigan---the-soldier"></a>Mark Harrigan - The Soldier
 
 <img  src="http://1.bp.blogspot.com/-5VRRddqUwMg/VAw9jVVDK2I/AAAAAAAAbkU/iPMd_DutL7g/s1600/10398074_10154203068875724_1451521071111722213_n.jpg" alt="Mark Harrigan" height="320" width="320" />
 
@@ -216,7 +216,7 @@ Starts with 1 .38 Revolver and 1 Kerosene.
 Action: You and 1 Monster on your space each lose 1 Health.
 Passive: You cannot become Delayed or gain a Detained Condition unless you choose to.
 
-# Lily Chen - The Martial Artist
+# <a name="lily-chen---the-martial-artist"></a>Lily Chen - The Martial Artist
 
 <img src="http://1.bp.blogspot.com/-GmHB5wkkILM/VAw9rwuNA1I/AAAAAAAAbkc/OPxUMve0bVw/s1600/10325209_10154203041550724_6880252976953268608_n.jpg" alt="Lily Chen" height="320" width="311" />
 
@@ -240,7 +240,7 @@ Starts with 1 Protective Amulet and 1 Lucky Rabbits Foot.
 Action: Spend any number of Health or Sanity, then recover an equal number of Health and Sanity.
 Passive: When you improve a skill, you may immediatly improve that skill again.
 
-# Jim Culver - The Musician
+# <a name="jim-culver---the-musician"></a>Jim Culver - The Musician
 
 <img src="http://2.bp.blogspot.com/-yd1mJUzH8H8/VAw92xkBn8I/AAAAAAAAbkk/ssj9mrbYou4/s1600/10411926_10154191182065724_5247700289677110715_n.jpg" alt="Jim Culver" height="320" width="256" />
 
@@ -264,7 +264,7 @@ Starts with 1 Shriveling Spell and 1 Clue
 Action: Each investigator on your space recovers 1 Sanity.
 Passive: Investigators on your space roll 1 additional die when resolving tests during combat encounters.
 
-# Jaqueline Fine - The Psychic
+# <a name="jaqueline-fine---the-psychic"></a>Jaqueline Fine - The Psychic
 
 <img  src="http://4.bp.blogspot.com/-HHFOTS5psKY/VAw-DfCD5wI/AAAAAAAAbks/Hu9GI-9NPOE/s1600/10295152_10154187619510724_8881545209780785659_o.jpg" alt="Jaqueline Fine" height="320" width="240" />
 
@@ -288,7 +288,7 @@ Starts with 1 Flesh Ward spell and 1 Clue
 Action: You may trade any number of Clues with an investigator on any space.
 Passive: Once per round, when another investigator gains a non-common condition, you may look at the back of that card and gain 1 clue.
 
-# Diana Stanley - The Redeemed Cultist
+# <a name="diana-stanley---the-redeemed-cultist"></a>Diana Stanley - The Redeemed Cultist
 <img src="http://2.bp.blogspot.com/-3tMRKQVKY-Q/VAw-OlgPZNI/AAAAAAAAbk0/oq7XZGxcv8A/s1600/1969218_10154184744450724_6134708272149517516_n.jpg" alt="Diana Stanley" />
 
 "The Lodge is not as innocent as they pretend. I have learned that nothing is ever as it seems, myself included."
