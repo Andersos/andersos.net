@@ -11,8 +11,8 @@ tags:
 - Boardgame
 ---
 
-- [Charlie Kane - The Politician (4&hearts; 8☘)](#charlie-kane---the-politician)
-- [Silas Marsh - The Sailor (8&hearts; 4☘)](#silas-marsh---the-sailor)
+- <a href="#charlie-kane---the-politician" onClick="_gaq.push(['_trackEvent', 'Eldritch horror investigator list', 'TOC Anchor', 'Charlie Kane']);">Charlie Kane - The Politician (4&hearts; 8☘)</a>
+- <a href="#silas-marsh---the-sailor" onClick="_gaq.push(['_trackEvent', 'Eldritch horror investigator list', 'TOC Anchor', 'Silas Marsh']);">Silas Marsh - The Sailor (8&hearts; 4☘)</a>
 - [Trish Scarborough - The Spy (7&hearts; 5☘)](#trish-scarborough---the-spy)
 - [Akachi Onyele - The Shaman (5&hearts; 7☘)](#akachi-onyele---the-shaman)
 - [Leo Anderson - The Expidition Leader (6&hearts; 6☘)](#leo-anderson---the-expidition-leader)
