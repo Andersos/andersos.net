@@ -26,7 +26,7 @@ tags:
             <td class="success">3</td>
             <td class="success">4</td>
             <td class="success">5</td>
-            <td>6</td>
+            <td class="success">6</td>
             <td>7</td>
         </tr>
         <tr>

@@ -50,36 +50,36 @@ I made a calendar so we can keep track of the progress. I also made a calendar f
       <td class="success">5</td>
       <td class="success">6</td>
       <td class="success">7</td>
-      <td>8</td>
-      <td>9</td>
-      <td>10</td>
-      <td>11</td>
+      <td class="success">8</td>
+      <td class="success">9</td>
+      <td class="success">10</td>
+      <td class="success">11</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>13</td>
-      <td>14</td>
-      <td>15</td>
-      <td>16</td>
-      <td>17</td>
-      <td>18</td>
+      <td class="success">12</td>
+      <td class="success">13</td>
+      <td class="success">14</td>
+      <td class="success">15</td>
+      <td class="success">16</td>
+      <td class="success">17</td>
+      <td class="success">18</td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>20</td>
-      <td>21</td>
-      <td>22</td>
-      <td>23</td>
-      <td>24</td>
-      <td>25</td>
+      <td class="success">19</td>
+      <td class="success">20</td>
+      <td class="success">21</td>
+      <td class="success">22</td>
+      <td class="success">23</td>
+      <td class="success">24</td>
+      <td class="success">25</td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>27</td>
-      <td>28</td>
-      <td>29</td>
-      <td>30</td>
-      <td>31</td>
+      <td class="success">26</td>
+      <td class="success">27</td>
+      <td class="success">28</td>
+      <td class="success">29</td>
+      <td class="success">30</td>
+      <td class="success">31</td>
       <td class="off">1</td>
     </tr>
     <tr>
