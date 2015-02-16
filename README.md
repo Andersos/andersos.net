@@ -16,7 +16,7 @@ bundle exec jekyll serve
 
 ## Testing
 ```shell
-bundle exec htmlproof ./_site
+bundle exec jekyll build && bundle exec htmlproof ./_site
 ```
 
 ## TODO

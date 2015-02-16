@@ -11,6 +11,7 @@ timezone: Europe/Oslo
 permalink: pretty
 relative_permalinks: true
 markdown: redcarpet
+jekyll-mentions: https://twitter.com
 gems:
   - jekyll-redirect-from
   - jemoji

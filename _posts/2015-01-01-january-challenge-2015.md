@@ -17,7 +17,7 @@ So my [girlfriend](http://goo.gl/0KAzRP) and I talked about trying out a new dai
 
 We also talked about other challenges we could do like: walking 10,000 steps each day, no social media, no soda, no tv, film [1 second everyday](https://itunes.apple.com/us/app/1-second-everyday/id587823548), walk to work or school and so on. We will see how it works out.
 
-I made a calendar so we can keep track of the progress. I also made a calendar for a project I wanted to work on [every week](/2015/01/01/once-a-week.html) of this year.
+I made a calendar so we can keep track of the progress. I also made a calendar for a project I wanted to work on [every week](http://blog.andersos.net/2015/01/01/once-a-week/) of this year.
 
 <table>
   <thead>
