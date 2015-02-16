@@ -9,8 +9,9 @@ thumbnail:
 tags: email
 ---
 
+<div class="message">
 Repost from [tech.finn.no](http://tech.finn.no/2014/11/21/email-providers-in-norway/)  
-
+</div>
 It all started with a simple tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p>Er det noen som har noe norsk statistikk på bruk av e-post (gmail vs. outlook vs. online vs. yahoo osv)? F.eks <a href="https://twitter.com/labs_finn_no">@labs_finn_no</a> eller <a href="https://twitter.com/NRKbeta">@NRKbeta</a>?</p>&mdash; Håvard Bergersen (@haavardb) <a href="https://twitter.com/haavardb/status/441921895643226112">March 7, 2014</a></blockquote>

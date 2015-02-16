@@ -1,34 +1,39 @@
 ---
 layout: default
 ---
-<section class="content">
-    <h1>
-        <a href="{{ site.baseurl }}">{{ page.title }}</a>
-    </h1>
-    <section class="byline">
-        {{ page.date | date: "%B %e, %Y" }}
-    </section>
+<div class="body">
+    <article class="post">
+        <h1>{{ page.title }}</h1>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+        <div class="post-body">
+            {{ content }}
+        </div>
+    </article>
 
-    {{ content }}
+    <hr>
 
-    <!-- TODO: bio here -->
-    <section class="meta">
-        <h3>Discussion, links, and tweets</h3>
-        <section class="copy">
-            <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
-                <img src="{{ site.gravatar_url }}?s=50" alt="Picture of Anders Olsen Sandvik" height="50" width="50" />
-            </a>
+    <div class="qna">
+        <h2>Questions?</h2>
+        <p>Have a question about this post or anything else? Ask away on <a href="https://twitter.com/andersos" target="_blank">Twitter</a>, in <a href="https://github.com/Andersos/feedback" target="_blank">my feedback repo</a> or comment below.</p>
+    </div>
 
-            <p>
-                I'm a fornt-end developer. <a href="https://twitter.com/{{ site.twitter }}" target="_blank">Follow me on Twitter</a>.
-            </p>
+    <hr>
 
-            <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
-            <a href="http://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter }}</a>
-            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </section>
-        <section>
-            <div id="disqus_thread"></div>
-        </section>
-    </section>
-</section>
+    <aside class="related">
+        <h2>Related Posts</h2>
+        <ul class="posts">
+            {% for post in site.related_posts limit:3 %}
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    {{ post.title }}
+                    <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </aside>
+
+    {% if page.comments %}
+    {% include comments.html %}
+    {% endif %}
+</div>

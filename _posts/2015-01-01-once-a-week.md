@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 author: Anders Olsen Sandvik
 title: Once a week
 date: 2015-01-01 22:00:00+01:00
