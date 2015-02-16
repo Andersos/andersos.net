@@ -1,6 +1,6 @@
 language: ruby
 cache: bundler
-script: rake test
+script: "bundle exec jekyll build && bundle exec htmlproof ./_site"
 branches:
   only:
   - gh-pages
