@@ -5,7 +5,9 @@ author: Anders Olsen Sandvik
 title: Eldritch horror investigator list
 date: 2014-09-07 13:15:00+00:00
 location: Oslo
-redirect_from: /2014/09/eldritch-horror-investigator-list.html
+redirect_from:
+- /2014/09/eldritch-horror-investigator-list.html
+- /2014/09/07/eldritch-horror-investigator-list.html
 thumbnail:
 tags:
 - Boardgame
