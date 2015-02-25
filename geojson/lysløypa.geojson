@@ -10,7 +10,8 @@
       "properties": {
         "marker-symbol": "fast-food",
         "name": "Torggata Kennelklubb",
-        "address": "Torggata 35"
+        "address": "Torggata 35",
+        "date": "2015.02.14"
       }
     }
   ]
