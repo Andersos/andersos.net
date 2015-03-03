@@ -32,7 +32,7 @@ tags:
         <tr>
             <td class="success">7</td>
             <td class="success">8</td>
-            <td>9</td>
+            <td class="success">9</td>
             <td>10</td>
             <td>11</td>
             <td>12</td>
