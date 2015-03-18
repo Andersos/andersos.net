@@ -35,7 +35,7 @@ tags:
             <td class="success">9</td>
             <td class="success">10</td>
             <td class="success">11</td>
-            <td>12</td>
+            <td class="success">12</td>
             <td>13</td>
         </tr>
         <tr>
