@@ -36,10 +36,10 @@ tags:
             <td class="success">11</td>
             <td class="success">12</td>
             <td>13</td>
-            <td>14</td>
+            <td class="success">14</td>
         </tr>
         <tr>
-            <td>15</td>
+            <td class="success">15</td>
             <td>16</td>
             <td>17</td>
             <td>18</td>
