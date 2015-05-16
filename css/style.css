@@ -9,7 +9,7 @@ html {
 }
 
 html, body {
-    
+
     margin: 0;
     padding: 0;
 }
@@ -315,6 +315,7 @@ background-color: #eee;
 .post img,
 .post iframe {
     max-width: 100%;
+    margin: 0 auto;
 }
 
 .post iframe {
