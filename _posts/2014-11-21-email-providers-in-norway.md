@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 author: Anders Olsen Sandvik
 title: Email providers in Norway
 date: 2014-11-21 18:00:00+00:00
