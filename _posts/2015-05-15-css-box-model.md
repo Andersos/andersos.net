@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 author: Anders Olsen Sandvik
 title: CSS box model
 date: 2015-05-15 19:00:00+01:00
