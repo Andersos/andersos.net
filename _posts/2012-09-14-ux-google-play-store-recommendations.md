@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 author: Anders Olsen Sandvik
 title: UX Google Play Store recommendations
 date: 2012-09-14 17:30:00+00:00
