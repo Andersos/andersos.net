@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 author: Anders Olsen Sandvik
 title: Eldritch horror investigator list
 date: 2014-09-07 13:15:00+00:00
