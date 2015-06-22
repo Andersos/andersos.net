@@ -16,3 +16,9 @@ bundle exec jekyll serve
 ```shell
 rake test
 ```
+
+
+## Generate books page
+```shell
+./script/books.sh
+```
