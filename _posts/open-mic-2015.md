@@ -37,6 +37,11 @@ Break
 Krisztina Matyi
 Introduction to codebar.io
 
+https://twitter.com/KrisztaMatyi/status/601111955739418624
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides of my talk can be found here: <a href="http://t.co/XdyGcnua0F">http://t.co/XdyGcnua0F</a>&#10;<a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Kriszta Matyi (@KrisztaMatyi) <a href="https://twitter.com/KrisztaMatyi/status/601111955739418624">May 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides of my talk can be found here: <a href="http://t.co/XdyGcnua0F">http://t.co/XdyGcnua0F</a>&#10;<a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Kriszta Matyi (@KrisztaMatyi) <a href="https://twitter.com/KrisztaMatyi/status/601111955739418624">May 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 21:30
