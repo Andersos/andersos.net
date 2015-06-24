@@ -31,6 +31,8 @@ Who Visualized the Bomp?
 
 ## Dale Harvey
 The offline web
+https://twitter.com/daleharvey
+http://daleharvey.github.io/Presentations/WebRebels-Oslo-2015-05-22/
 
 ## Fergus McDowall
 An introduction to search-index.js
