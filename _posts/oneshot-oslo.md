@@ -22,6 +22,9 @@ Act 1
 ## Mats Olsen
 10:30am Authentication With JSON Web Tokens presented by 
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides from my talk at <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a> available at <a href="https://t.co/DSZKmgvnO6">https://t.co/DSZKmgvnO6</a>. Thanks for listening!</p>&mdash; Mats Olsen (@mewwts) <a href="https://twitter.com/mewwts/status/602046156387024896">May 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Mathias Buus
 11:00am Rethinking deployment for the future presented by 
 
