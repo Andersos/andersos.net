@@ -19,18 +19,33 @@ Act 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpOSSZHkdzw" frameborder="0" allowfullscreen></iframe>
 
-10:30am Authentication With JSON Web Tokens presented by Mats Olsen
-11:00am Rethinking deployment for the future presented by Mathias Buus
-11:30am Azure + nodejs = true presented by Magnus Green
-12:00pm Lunch
-Act 2
-14:00pm Deploying microservices presented by David Mark Clements
+## Mats Olsen
+10:30am Authentication With JSON Web Tokens presented by 
+
+## Mathias Buus
+11:00am Rethinking deployment for the future presented by 
+
+## Magnus Green
+11:30am Azure + nodejs = true presented by 
+
+## David Mark Clements
+14:00pm Deploying microservices presented by 
+
+## Suz Hinton
 14:30pm Don’t delete the datasheet - writing and publishing libraries for hardware in NodeJS presented by Suz Hinton
+
+## Eirik Langholm Vullum
 15:00pm Building a news aggregator using streams presented by Eirik Langholm Vullum
-15:30pm Afternoon break
-Act 3
-16:00pm Npm registry 2.0 deep dive presented by C J Silverio
-16:30pm Some fun things to do with svg presented by substack
+
+
+## C J Silverio
+Npm registry 2.0 deep dive presented by C J Silverio
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/oneshotoslo?src=hash">#oneshotoslo</a> slides! <a href="https://t.co/9VLP55fuTs">https://t.co/9VLP55fuTs</a>&#10;&#10;Source for the slides for this &amp; my <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> talk: <a href="https://t.co/AQzug9XdhU">https://t.co/AQzug9XdhU</a></p>&mdash; Ceej engine (@ceejbot) <a href="https://twitter.com/ceejbot/status/602147988341940225">May 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## substack
+16:30pm Some fun things to do with svg presented by 
 
 
 
