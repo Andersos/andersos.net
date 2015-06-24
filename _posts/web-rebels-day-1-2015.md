@@ -36,6 +36,9 @@ http://daleharvey.github.io/Presentations/WebRebels-Oslo-2015-05-22/
 ## Fergus McDowall
 An introduction to search-index.js
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides for my talk about search-index.js at <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> 2015 are here: <a href="https://t.co/ZFpIftOp5N">https://t.co/ZFpIftOp5N</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Fergie McDowall (@fergiemcdowall) <a href="https://twitter.com/fergiemcdowall/status/602026740823793664">May 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Mikeal Rogers
 Rules for Rebels
 
