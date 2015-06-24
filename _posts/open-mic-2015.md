@@ -18,23 +18,22 @@ So I was really lucky to be a part of the Web Rebels 2015 crew. One of my jobs w
 19:00
 Bar opens
 Come as you are, grab someting in the bar and make some new friends!
-20:00
-Kristofer Walters
+
+## Kristofer Walters
 Building web components
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides of my talk on web components <a href="http://t.co/5ngxfI1vr0">http://t.co/5ngxfI1vr0</a> <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Kristofer (@kwltrs) <a href="https://twitter.com/kwltrs/status/601100893065449473">May 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-20:15
-Asbjørn Andersen
+## Asbjørn Andersen
 Exploring a simpler abstraction for swarms
+
+https://github.com/asbjornenge/hyperswarm
+
 20:30
 Lotte Johansen
 Accessibility for everyone
-20:45
-Break
-21:15
-Krisztina Matyi
+
+## Krisztina Matyi
 Introduction to codebar.io
 
 https://twitter.com/KrisztaMatyi/status/601111955739418624
@@ -44,14 +43,20 @@ https://twitter.com/KrisztaMatyi/status/601111955739418624
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides of my talk can be found here: <a href="http://t.co/XdyGcnua0F">http://t.co/XdyGcnua0F</a>&#10;<a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Kriszta Matyi (@KrisztaMatyi) <a href="https://twitter.com/KrisztaMatyi/status/601111955739418624">May 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-21:30
-Maxim Salnikov
+
+## Maxim Salnikov
 Graphics on web: past, present and future
-21:45
-Marius Nielsen
+
+
+## Marius Nielsen
 From jQuery to React at Xeneta
-22:00
-Espen Klem
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">From <a href="https://twitter.com/hashtag/jQuery?src=hash">#jQuery</a> to <a href="https://twitter.com/hashtag/ReactJs?src=hash">#ReactJs</a> by <a href="https://twitter.com/MariusTheNorse">@MariusTheNorse</a> at <a href="https://twitter.com/web_rebels">@web_rebels</a> conference! <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> <a href="https://twitter.com/Xeneta_AS">@Xeneta_AS</a> <a href="http://t.co/yHbOSzKGM4">http://t.co/yHbOSzKGM4</a> <a href="http://t.co/gpR49goM92">pic.twitter.com/gpR49goM92</a></p>&mdash; Jerry Kelih (@JerryKelih) <a href="https://twitter.com/JerryKelih/status/601111664440795136">May 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+http://www.slideshare.net/MariusTheNorse/jqyery-toreact-42091336
+
+## Espen Klem
 Personal Search - Your digital life searchable?
 
 
