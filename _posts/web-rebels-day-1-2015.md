@@ -22,6 +22,9 @@ Third Party Footprint: Evaluating the Performance of External Scripts
 ## Brian J Brennan
 Ladies and Gentlemen We Are Floating in Cyberspace
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">btw <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> if you&#39;re interested in the garbage code I used for audio triggering in my slides, <a href="https://t.co/GIBjZNq47G">https://t.co/GIBjZNq47G</a> //<a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; witchspace (@brianloveswords) <a href="https://twitter.com/brianloveswords/status/601326870446092288">May 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Brittany Storoz
 Intelligent Design: Application Architecture of the Human Body
 
