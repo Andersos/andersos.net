@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 author: Anders Olsen Sandvik
 title: Open Mic 2015
 date: 2015-06-09 13:00:00+01:00
