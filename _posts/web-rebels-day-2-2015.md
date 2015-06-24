@@ -19,6 +19,9 @@ Full beakfast to help you get ready for an action packed day!
 ## Mathias Bynens
 JavaScript ♥ Unicode
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/web_rebels">@web_rebels</a> Slides and notes for my presentation on JavaScript, Unicode, and ECMAScript 6: <a href="https://t.co/DGBo5mbrEG">https://t.co/DGBo5mbrEG</a> <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> #💩</p>&mdash; Mathias Bynens (@mathias) <a href="https://twitter.com/mathias/status/601652701655629824">May 22, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Lars Hansen
 Shared-memory multicore computation in JavaScript
 
