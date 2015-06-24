@@ -28,6 +28,8 @@ Intelligent Design: Application Architecture of the Human Body
 ## Jenn Schiffer
 Who Visualized the Bomp?
 
+https://github.com/jennschiffer/who-visualized-the-bomp
+
 ## Dale Harvey
 The offline web
 https://twitter.com/daleharvey
