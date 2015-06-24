@@ -38,6 +38,12 @@ The offline web
 https://twitter.com/daleharvey
 http://daleharvey.github.io/Presentations/WebRebels-Oslo-2015-05-22/
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andersos">@Andersos</a> Hey, apologies I hadnt, my slides alone arent usually super useful but I put them up @ <a href="http://t.co/k8gqNhMo60">http://t.co/k8gqNhMo60</a></p>&mdash; Dale Harvey (@daleharvey) <a href="https://twitter.com/daleharvey/status/612539271740813312">June 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> continues with <a href="https://twitter.com/daleharvey">@daleharvey</a> on why and how make an offline web! <a href="http://t.co/3OTmLRcsn3">pic.twitter.com/3OTmLRcsn3</a></p>&mdash; Elisabeth Irgens (@elisabethirg) <a href="https://twitter.com/elisabethirg/status/601358405920493568">May 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Fergus McDowall
 An introduction to search-index.js
 
