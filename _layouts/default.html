@@ -15,7 +15,7 @@
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
   <meta property="og:description" content="{{! page.excerpt }}">
   <meta property="og:url" content="{{site.url}}{{ page.url }}">
-  <meta property="og:image" content="{% if page.thumbnail %}{{site.url}}{{ page.thumbnail }}{% else %}httP{% endif %}">
+  <meta property="og:image" content="{{site.url}}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/images/logo/anders.jpeg{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@Andersos">
   <meta name="twitter:widgets:csp" content="on">{% if page.tags %}{% for tag in page.tags %}
