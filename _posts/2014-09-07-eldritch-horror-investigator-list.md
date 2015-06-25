@@ -261,8 +261,8 @@ Strength: 2
 Will: 3
 
 ## Skills
-Starts with 1 Shriveling Spell and 1 Clue
-Action: Each investigator on your space recovers 1 Sanity.
+Starts with 1 Shriveling Spell and 1 Clue  
+Action: Each investigator on your space recovers 1 Sanity.  
 Passive: Investigators on your space roll 1 additional die when resolving tests during combat encounters.
 
 # <a name="jaqueline-fine---the-psychic"></a>Jaqueline Fine - The Psychic
