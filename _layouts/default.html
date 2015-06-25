@@ -19,7 +19,6 @@
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}">{% else %}
   <meta name="description" content="{{ site.description | strip_newlines | strip_html }}" >
   <meta property="og:description" content="{{ site.description | strip_newlines | strip_html }}" >{% endif %}
-  <meta property="og:description" content="{{! page.excerpt }}">
   <meta property="og:url" content="{{site.url}}{{ page.url }}">
   <meta property="og:image" content="{{site.url}}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/images/logo/anders.jpeg{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
