@@ -34,19 +34,19 @@ tags:
 When the press asks if Charlie is planning a run for national office, he smiles and says the he's focused on the important issues. The truth is that he would love to launch his campaign, but right now the most important issue is preventing the end of the world without causing a panic. To do this, he's been calling in favors across the country. Most recently, Charlie's stopped in San Francisco to visit Hearst Castle. With the help of his friends and his finances, Charlie believes he can fix this problem without sacrificing a single vote.
 
 ## Health and Sanity
-Health: 4
+Health: 4  
 Sanity: 8
 
 ## Stats
-Lore: 2
-Influence: 4
-Observation: 3
-Strength: 2
+Lore: 2  
+Influence: 4  
+Observation: 3  
+Strength: 2  
 Will: 2
 
 ## Skills
-Starts with 1 Personal Assistant Asset
-Action: Another investigator of your choice may immidiatly perform 1 additional action.
+Starts with 1 Personal Assistant Asset  
+Action: Another investigator of your choice may immidiatly perform 1 additional action.  
 Passive: When you perform an Acquire Assets action, you may allow other investigators to gain any cards you purchase.
 
 # <a name="silas-marsh---the-sailor"></a>Silas Marsh - The Sailor
@@ -58,19 +58,19 @@ Passive: When you perform an Acquire Assets action, you may allow other investig
 Even as a child in Innsmouth, Silas had a special connection to the sea. He's an able and well-reasoned man on land, but on the ocean he possesses a singular strength and wit. It's earned him a sterling reputation in every port across the globe, particularly in Sidney, where Silas set ashore last night. But this morning, the smell of the briny air carries dread as well as joy. There is something in his past, something in Innsmouth, that he knows will someday catch up to him.
 
 ## Health and Sanity
-Health: 8
+Health: 8  
 Sanity: 4
 
 ## Stats
-Lore: 1
-Influence: 3
-Observation: 3
-Strength: 3
+Lore: 1  
+Influence: 3  
+Observation: 3  
+Strength: 3  
 Will: 3
 
 ## Skills
-Starts with 1 Fishing Net Asset
-Action: Move 1 space along a ship path, then perform 1 additional action.
+Starts with 1 Fishing Net Asset  
+Action: Move 1 space along a ship path, then perform 1 additional action.  
 Passive: If you are on a sea space, investigators on your space roll 1 additional die when resolving tests.
 
 # <a name="trish-scarborough---the-spy"></a>Trish Scarborough - The Spy
@@ -82,19 +82,19 @@ Passive: If you are on a sea space, investigators on your space roll 1 additiona
 Everyone expected great things from Trish when she was young. In school, she excelled in athletics and the sciences, but she surprised everyone after graduation by settling into a humble position at a commercial code company. What almost no one knows is that this particular company is a front for the Bureau's code-braking agency, the Black Chamber. Now she finds herself in the city of Krasnoyarsk meeting another agent who has important information about an impending threat from a world beyond our own.
 
 ## Health and Sanity
-Health: 7
+Health: 7  
 Sanity: 5
 
 ## Stats
-Lore: 1
-Influence: 3
-Observation: 3
-Strength: 3
+Lore: 1  
+Influence: 3  
+Observation: 3  
+Strength: 3  
 Will: 2
 
 ## Skills
-Starts with 1 .45 Automatic asset
-Action: If you do not have any Clues, gain 1 Clue
+Starts with 1 .45 Automatic asset  
+Action: If you do not have any Clues, gain 1 Clue.  
 Passive: If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.
 
 # <a name="akachi-onyele---the-shaman"></a>Akachi Onyele - The Shaman
@@ -106,19 +106,19 @@ Passive: If an investigator on your space spends a Clue to reroll a die, he may 
 As a young girl in Nigeria, Akachi stayed apart from other children, preferring the company of imaginary friends. Her elders feared madness, but the village dibia believed that she had been chosen by the gods. The wise old man taught her how to travel between worlds and how to marshall spirits. Now, she has become a wise leader herself, traveling across Africa and teaching others to protect themselves. She's recently arrived in Cape Town and from here, she will track down the dark forces that threaten humanity.
 
 ## Health and Sanity
-Health: 5
+Health: 5  
 Sanity: 7
 
 ## Stats
-Lore: 3
-Influence: 2
-Observation: 2
-Strength: 2
+Lore: 3  
+Influence: 2  
+Observation: 2  
+Strength: 2  
 Will: 4
 
 ## Skills
-Starts with 1 Mists of Releh Spell and 1 Clue
-Action: Look at the top two gates in the gate stack. Put 1 gate on the top of the gate stack and one at the bottom.
+Starts with 1 Mists of Releh Spell and 1 Clue  
+Action: Look at the top two gates in the gate stack. Put 1 gate on the top of the gate stack and one at the bottom.  
 Passive: When you close a gate during an Other World Encounter, you may move to any space containing a Clue or a Gate.
 
 # <a name="leo-anderson---the-expidition-leader"></a>Leo Anderson - The Expidition Leader
@@ -130,19 +130,19 @@ Passive: When you close a gate during an Other World Encounter, you may move to 
 Leo Anderson has spent his whole life getting into the deadliest and most obscure corners of the globe. Along the way, he's lost good people. Fever takes some; others are claimed by wild beasts. After a recent, disastrous venture in the Yucatan, Leo barely made it back to Buenos Airies alive. He's sick of burying the people who trusted him. But the job's not done yet. The world is in danger, and crying in his drink won't fix that. He's picked up a little hired help here, and in the morning, he'll head back into the wild.
 
 ## Health and Sanity
-Health: 6
+Health: 6  
 Sanity: 6
 
 ## Stats
-Lore: 2
-Influence: 2
-Observation: 3
-Strength: 3
+Lore: 2  
+Influence: 2  
+Observation: 3  
+Strength: 3  
 Will: 3
 
 ## Skills
-Starts with 1 Hired Muscle Asset
-Action: Test influence. If you pass, gain 1 Ally Asset of your choice from the reserve or discard pile.
+Starts with 1 Hired Muscle Asset  
+Action: Test influence. If you pass, gain 1 Ally Asset of your choice from the reserve or discard pile.  
 Passive: If you are on a wilderness space, investigators on your space roll 1 additional die when resolving tests.
 
 # <a name="norman-withers---the-astronomer"></a>Norman Withers - The Astronomer
@@ -154,19 +154,19 @@ Passive: If you are on a wilderness space, investigators on your space roll 1 ad
 The scientific community ridiculed Norman for his claim that six stars disappeared from the sky. After exhausting every plausible astronomical explanation for answers, he took a position at the Miskatonic University and began exploring more improbable possibilities in the restricted section of their library. While reading an ancient text of dark prophecies, Norman found an exact description of the phenomenon he'd observed. If the tome is to be believed, a terrible incursion into our world is imminent.
 
 ## Health and Sanity
-Health: 5
+Health: 5  
 Sanity: 7
 
 ## Stats
-Lore: 3
-Influence: 1
-Observation: 3
-Strength: 2
+Lore: 3  
+Influence: 1  
+Observation: 3  
+Strength: 2  
 Will: 4
 
 ## Skills
-Starts with 1 Feed the Mind Spell
-Action: Spend 2 Clues to discard 1 Monster on a space containing a Gate.
+Starts with 1 Feed the Mind Spell  
+Action: Spend 2 Clues to discard 1 Monster on a space containing a Gate.  
 Passive: Once per round, you may spend 1 Sanity in place of spending 1 Clue.
 
 # <a name="lola-hayes---the-actress"></a>Lola Hayes - The Actress
@@ -178,19 +178,19 @@ Passive: Once per round, you may spend 1 Sanity in place of spending 1 Clue.
 Around the world, Lola has performed dramatic roles for sold-out houses. However, after being cast in the controversial play, "The King in Yellow", Lola needed to "take some time" to recover from her "exhaustion". Now that she has checked herself out of the asylum, she's ready for her big comeback. But this time she'll play a different role in the fight against the horrors that threaten this world. She's started by traveling to Tokyo to track down the only other surviving cast member of her previous theatrical endeavor.
 
 ## Health and Sanity
-Health: 5
+Health: 5  
 Sanity: 7
 
 ## Stats
-Lore: 2
-Influence: 4
-Observation: 2
-Strength: 2
+Lore: 2  
+Influence: 4  
+Observation: 2  
+Strength: 2  
 Will: 3
 
 ## Skills
-Starts with 1 .18 Derringer and can improve 1 skill of her choice.
-Action: Spend any number of Improvement tokens, then improve 1 skill of your choice for each token spent.
+Starts with 1 .18 Derringer and can improve 1 skill of her choice.  
+Action: Spend any number of Improvement tokens, then improve 1 skill of your choice for each token spent.  
 Passive: Once per round, an investigator on your space (including Lola) may roll 1 additional die when resolving a test.
 
 # <a name="mark-harrigan---the-soldier"></a>Mark Harrigan - The Soldier
@@ -202,19 +202,19 @@ Passive: Once per round, an investigator on your space (including Lola) may roll
 During the war, Mark witnessed horrors he could not explain, and he wrote of what he saw in letters to his beloved wife, Sophie. When Mark returned home, he discovered that Sophie was no longer human. One of the beasts that Mark had seen overseas had taken her body, killing her in the process. Afterward, Mark's thirst for vengeance lead him to Helsinki, where some of these creatures had posed as German soldiers during the Great War.
 
 ## Health and Sanity
-Health: 8
+Health: 8  
 Sanity: 4
 
 ## Stats
-Lore: 1
-Influence: 2
-Observation: 2
-Strength: 4
+Lore: 1  
+Influence: 2  
+Observation: 2  
+Strength: 4  
 Will: 4
 
 ## Skills
-Starts with 1 .38 Revolver and 1 Kerosene.
-Action: You and 1 Monster on your space each lose 1 Health.
+Starts with 1 .38 Revolver and 1 Kerosene.  
+Action: You and 1 Monster on your space each lose 1 Health.  
 Passive: You cannot become Delayed or gain a Detained Condition unless you choose to.
 
 # <a name="lily-chen---the-martial-artist"></a>Lily Chen - The Martial Artist
@@ -226,19 +226,19 @@ Passive: You cannot become Delayed or gain a Detained Condition unless you choos
 Lily speaks rarely and when she does, her words are measured and wise. After a lifetime of disciplined training, every gesture is graceful, uncluttered by hesitation. When she was an infant, an obscure sect of monks believed that she was born for a special purpose, to face a great evil,. Now, the monks believe that the great evil is at hand, and they have brought Lily to Shanghai, to begin fulfilling her destiny.
 
 ## Health and Sanity
-Health: 6
+Health: 6  
 Sanity: 6
 
 ## Stats
-Lore: 2
-Influence: 2
-Observation: 2
-Strength: 4
+Lore: 2  
+Influence: 2  
+Observation: 2  
+Strength: 4  
 Will: 3
 
 ## Skills
-Starts with 1 Protective Amulet and 1 Lucky Rabbits Foot.
-Action: Spend any number of Health or Sanity, then recover an equal number of Health and Sanity.
+Starts with 1 Protective Amulet and 1 Lucky Rabbits Foot.  
+Action: Spend any number of Health or Sanity, then recover an equal number of Health and Sanity.  
 Passive: When you improve a skill, you may immediatly improve that skill again.
 
 # <a name="jim-culver---the-musician"></a>Jim Culver - The Musician
@@ -250,14 +250,14 @@ Passive: When you improve a skill, you may immediatly improve that skill again.
 Old Jim Culver's music gives sweet comfort to the soul, and it doesn't matter if that soul belongs to the living or the dead. Folks in their graves, they love their little chats with Jim. It used to bother him, but now he's happy for the company. Lately, some departed souls in San Antonio have been all riled up about something. They're downright terrified. And anything that scares the dead deserves old Jim's undivided attention.
 
 ## Health and Sanity
-Health: 7
+Health: 7  
 Sanity: 5
 
 ## Stats
-Lore: 3
-Influence: 3
-Observation: 2
-Strength: 2
+Lore: 3  
+Influence: 3  
+Observation: 2  
+Strength: 2  
 Will: 3
 
 ## Skills
@@ -274,19 +274,19 @@ Passive: Investigators on your space roll 1 additional die when resolving tests 
 At first, Jaqueline's dreams of fire and destruction seemed like a curse. Monsters ran rampant through the city streets and some greater darkness loomed on the horizon. However, she has recently learned to control her visions and observe events in detail. Yesterday, she traveled from Boston to Minneapolis to explore an abandoned warehouse she'd seen in her dreams. Inside, she found evidence of a terrible cult that had practiced unspeakable rituals there. Jaqueline hopes to use what she's learned to prevent the terrible future to haunts her sleep.
 
 ## Health and Sanity
-Health: 4
+Health: 4  
 Sanity: 8
 
 ## Stats
-Lore: 4
-Influence: 2
-Observation: 3
-Strength: 1
+Lore: 4  
+Influence: 2  
+Observation: 3  
+Strength: 1  
 Will: 3
 
 ## Skills
-Starts with 1 Flesh Ward spell and 1 Clue
-Action: You may trade any number of Clues with an investigator on any space.
+Starts with 1 Flesh Ward spell and 1 Clue  
+Action: You may trade any number of Clues with an investigator on any space.  
 Passive: Once per round, when another investigator gains a non-common condition, you may look at the back of that card and gain 1 clue.
 
 # <a name="diana-stanley---the-redeemed-cultist"></a>Diana Stanley - The Redeemed Cultist
@@ -297,17 +297,17 @@ Passive: Once per round, when another investigator gains a non-common condition,
 When Diana was initiated into the "Order of the Silver Twilight", she believed it to be nothing more than a community organization. But as she has learned more of its true nature, she has become convinced that a growing evil threatens the world, and that the Silver Twilight will play a role in that threat. She believes her best chance to prevent this is to use her position to sabotage the organization from within. Carl Sanford, the head of the Order, has recognized her skills and recently sent her to Panama for additional training...
 
 ## Health and Sanity
-Health: 7
+Health: 7  
 Sanity: 5
 
 ## Stats
-Lore: 4
-Influence: 2
-Observation: 3
-Strength: 3
+Lore: 4  
+Influence: 2  
+Observation: 3  
+Strength: 3  
 Will: 1
 
 ## Skills
-Starts with 1 Arcane manuscript and 1 Wither spell.
-Action: If there is a Cultist Monster on your space, discard all monsters on your space or move the Culist Monster to any other space.
+Starts with 1 Arcane manuscript and 1 Wither spell.  
+Action: If there is a Cultist Monster on your space, discard all monsters on your space or move the Culist Monster to any other space.  
 Passive: Reduce the horror of Monsters you encounter to 1.
