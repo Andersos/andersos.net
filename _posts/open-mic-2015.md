@@ -27,6 +27,9 @@ Building web components
 ## Asbjørn Andersen
 Exploring a simpler abstraction for swarms
 
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andersos">@Andersos</a> Hey Anders 😄 Yup 👉🏻 <a href="https://t.co/jHtFyKLS31">https://t.co/jHtFyKLS31</a></p>&mdash; Asbjorn Enge (@asbjornenge) <a href="https://twitter.com/asbjornenge/status/613839068955340800">June 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 https://github.com/asbjornenge/hyperswarm
 
 20:30
@@ -47,6 +50,8 @@ https://twitter.com/KrisztaMatyi/status/601111955739418624
 ## Maxim Salnikov
 Graphics on web: past, present and future
 
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andersos">@Andersos</a> Sure! :) Slides from my &quot;Web graphics:&#10;past, present and future&quot; presentation on <a href="https://twitter.com/web_rebels">@web_rebels</a>: <a href="http://t.co/FmzUeV3yHE">http://t.co/FmzUeV3yHE</a></p>&mdash; Maxim Salnikov (@webmaxru) <a href="https://twitter.com/webmaxru/status/613977063431798785">June 25, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Marius Nielsen
 From jQuery to React at Xeneta
