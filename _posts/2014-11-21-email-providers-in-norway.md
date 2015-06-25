@@ -10,7 +10,7 @@ tags: email
 ---
 
 <div class="message">
-Repost from [tech.finn.no](http://tech.finn.no/2014/11/21/email-providers-in-norway) by @andersos.
+Repost from <a href="http://tech.finn.no/2014/11/21/email-providers-in-norway">tech.finn.no</a> by @andersos.
 </div>
 It all started with a simple tweet:
 
