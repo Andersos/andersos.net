@@ -8,7 +8,7 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/calendar.css">
-<!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
+  <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
     <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">-->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -18,12 +18,9 @@
   <meta property="og:image" content="{% if page.thumbnail %}{{site.url}}{{ page.thumbnail }}{% else %}httP{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@Andersos">
-  <meta name="twitter:widgets:csp" content="on">
-  {% if page.tags %}{% for tag in page.tags %}
-  <meta property="article:tag" content="{{ tag }}">{% endfor %}{% endif %}
-  {% if page.date %}
-  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-{% endif %}
+  <meta name="twitter:widgets:csp" content="on">{% if page.tags %}{% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}">{% endfor %}{% endif %}{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">{% endif %}
 </head>
 <body>
     <div class="container">
