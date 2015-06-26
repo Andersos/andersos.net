@@ -5,6 +5,7 @@ title: January Challenge 2015
 date: 2015-01-01 16:00:00+01:00
 location: Oslo
 thumbnail:
+scripts: calendar
 tags:
 - The Daily Challenge
 - challenge

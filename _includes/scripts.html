@@ -1,5 +1,9 @@
 {% for script in page.scripts %}
   {% if script == 'twitter' %}
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  {% endif %}
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{% endif %}
+  {% if script == 'tablesort' %}
+  <script async src="/public/js/tablesort.min.js" charset="utf-8"></script>
+  <link rel="stylesheet" href="/public/css/tablesort.css">{% endif %}
+  {% if script == 'calendar' %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/calendar.css">{% endif %}
 {% endfor %}
