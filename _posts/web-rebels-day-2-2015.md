@@ -4,14 +4,16 @@ author: Anders Olsen Sandvik
 title: Web Rebels Day 1 2015
 date: 2015-06-09 13:00:00+01:00
 location: Oslo
-thumbnail:
 published: false
+thumbnail: /images/logo/webrebels.png
 tags:
 - Web rebels
+- Conference
+- Javascript
 ---
 
 
-08:00	
+08:00
 Breakfast
 Full beakfast to help you get ready for an action packed day!
 
