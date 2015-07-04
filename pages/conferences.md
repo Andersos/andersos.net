@@ -5,4 +5,8 @@ thumbnail: /images/logo/webrebels.png
 permalink: /conferences/index.html
 ---
 
-Hello
+<ul>
+<li>WR 2014</li>
+<li>[WR 2015](/2015/06/30/web-rebels-day-1-2015/)</li>
+<li>NordicJS</li>
+</ul>
