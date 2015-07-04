@@ -16,17 +16,19 @@ tags:
 10 Questions/Answers about io.js and The Node Foundation ([Video](https://www.youtube.com/watch?v=HpOSSZHkdzw))
 
 ## Mats Olsen
-Authentication With JSON Web Tokens presented by ([Slides](https://github.com/mewwts/auth-examples/blob/master/slides/TokenAuth.pdf))
+Authentication with JSON Web Tokens ([Slides](https://github.com/mewwts/auth-examples/blob/master/slides/TokenAuth.pdf))
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides from my talk at <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a> available at <a href="https://t.co/DSZKmgvnO6">https://t.co/DSZKmgvnO6</a>. Thanks for listening!</p>&mdash; Mats Olsen (@mewwts) <a href="https://twitter.com/mewwts/status/602046156387024896">May 23, 2015</a></blockquote>
 
 ## Mathias Buus
-Rethinking deployment for the future ([Slides]()) ([Video]())
+Rethinking deployment for the future ([Slides](http://mafintosh.github.io/slides/oneshot-oslo-2015/)) ([Video](https://www.youtube.com/watch?v=2Sc6_XgNXyk))
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The slides for my <a href="https://twitter.com/hashtag/oneshot?src=hash">#oneshot</a> talk on rethinking deployment are now on github, <a href="http://t.co/2F3OJVnRdX">http://t.co/2F3OJVnRdX</a> <a href="https://twitter.com/web_rebels">@web_rebels</a></p>&mdash; Mathias Buus (@mafintosh) <a href="https://twitter.com/mafintosh/status/602083046708350976">May 23, 2015</a></blockquote>
 
 ## Magnus Green
-11:30am Azure + nodejs = true ([Slides]()) ([Video]())
+Azure + nodejs = true ([Slides](http://www.slideshare.net/magnushgreen/node-js-plus-azure-equals-true)) ([Video](https://www.youtube.com/watch?v=4bNVb2tkJqo))
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="lv" dir="ltr">NodeJS + Azure = true <a href="http://t.co/AxD4IOlqjU">http://t.co/AxD4IOlqjU</a> via <a href="https://twitter.com/SlideShare">@SlideShare</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/azure?src=hash">#azure</a> <a href="https://twitter.com/hashtag/oneshotoslo?src=hash">#oneshotoslo</a></p>&mdash; Magnus Green (@magnusg) <a href="https://twitter.com/magnusg/status/602842040997683201">May 25, 2015</a></blockquote>
 
 ## David Mark Clements
 14:00pm Deploying microservices ([Slides]()) ([Video]())
