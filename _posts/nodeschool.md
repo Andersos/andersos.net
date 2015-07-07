@@ -20,3 +20,5 @@ http://hjemmehos.finn.no/no/jobbe_her+/NodeSchool+hos+FINN.9UFRrM1U.ips
 http://www.meetup.com/NodeJSOslo/events/184934982/
 
 What I really miss is a way of determening witch workshops you have completed.
+
+Mention https://github.com/Andersos/tekkdag and maybe even https://gist.github.com/Andersos/11370374 or break it out in seperate post
