@@ -12,6 +12,10 @@ tags:
 - Boardgame
 ---
 
+<div class="message">
+Buy <a href="http://www.amazon.com/gp/product/1616617667/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616617667&linkCode=as2&tag=andersos-20&linkId=3JBWFY2BFOFYQ6TI">Eldritch Horror</a>. 
+</div>
+
 - <a href="#charlie-kane---the-politician" onClick="ga('send', 'event', 'Eldritch horror investigator list', 'TOC Anchor', 'Charlie Kane');">Charlie Kane - The Politician (4&hearts; 8☘)</a>
 - <a href="#silas-marsh---the-sailor" onClick="ga('send', 'event', 'Eldritch horror investigator list', 'TOC Anchor', 'Silas Marsh');">Silas Marsh - The Sailor (8&hearts; 4☘)</a>
 - <a href="#trish-scarborough---the-spy" onClick="ga('send', 'event', 'Eldritch horror investigator list', 'TOC Anchor', 'Trish Scarborough');">Trish Scarborough - The Spy (7&hearts; 5☘)</a>
