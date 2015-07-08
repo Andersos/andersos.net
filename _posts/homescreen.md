@@ -13,3 +13,4 @@ tags:
 
 
 Link to and talk about this as well http://blog.andersos.net/2012/12/27/which-apps-do-you-have-on-your-home-screen/
+Use affiliate linkz
