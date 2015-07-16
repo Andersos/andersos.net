@@ -9,6 +9,7 @@ scripts: twitter
 tags:
 - Node.js
 - Oneshot
+- Conference
 ---
 
 ## Mikeal Rogers
