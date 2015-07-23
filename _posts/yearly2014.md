@@ -45,7 +45,7 @@ Bilde etter boligsignering
 Trysil turen til vinter
 Web rebels 2014 linke til post
 Gå igjennom facebook poster
-http://blog.andersos.net/2015/06/28/10-for-grete/
+http://andersos.net/2015/06/28/10-for-grete/
 
 ## Exercise
 Trening 2014 -> endomondo
