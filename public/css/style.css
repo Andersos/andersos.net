@@ -270,6 +270,7 @@ a:hover {
 .related,
 footer {
     text-align: center;
+    font-size: 0.625rem;
 }
 
 .related ul {
