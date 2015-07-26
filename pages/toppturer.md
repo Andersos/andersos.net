@@ -53,13 +53,13 @@ thumbnail: /images/pages/toppturer/tromsø.jpg
 
 <tr>
 <td><time datetime="2015-07-25T11:18:00+02:00">25 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo"></a>Ullevålseter Sportsstue</td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo">Ullevålseter Sportsstue</a></td>
 <td><a href="https://www.endomondo.com/resources/gfx/picture/25126912/big.jpg" alt="Picture of Ann, Marte and me after trip to Skjennungstua">335 MASL</a></td>
 </tr>
 
 <tr>
 <td><time datetime="2015-07-25T11:18:00+02:00">25 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo"></a>Skjennungstua</td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo">Skjennungstua</a></td>
 <td><a href="https://www.endomondo.com/resources/gfx/picture/25126912/big.jpg" alt="Picture of Ann, Marte and me after trip to Skjennungstua">470 MASL</a></td>
 </tr>
 
