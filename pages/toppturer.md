@@ -40,21 +40,21 @@ thumbnail: /images/pages/toppturer/tromsø.jpg
 <tbody>
 
 <tr>
-<td><time datetime="2015-00-00T11:24:00+02:00"></time></td>
+<td><time datetime="2015-07-04T11:24:00+02:00">04 July 2015</time></td>
 <td><a href="https://www.endomondo.com/users/357581/workouts/554713297" alt="Trip on Endomondo">Gangsåstoppen</a></td>
+<td><a href="" alt="Picture of Marte and me on top of Fløya">172 MASL</a></td>
+</tr>
+
+<tr>
+<td><time datetime="2015-07-08T14:50:00+02:00">08 July 2015</time></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/5594415727" alt="Trip on Endomondo">Fløya</a></td>
 <td><a href="/images/pages/toppturer/fløyen.jpg" alt="Picture of Marte and me on top of Fløya">642 MASL</a></td>
 </tr>
 
 <tr>
-<td><time datetime="2015-07-04T11:24:00+02:00">04 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/554713297" alt="Trip on Endomondo">Fløya</a></td>
-<td><a href="/images/pages/toppturer/fløyen.jpg" alt="Picture of Marte and me on top of Fløya">642 MASL</a></td>
-</tr>
-
-<tr>
-<td><time datetime="2015-07-04T11:24:00+02:00">04 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/554713297" alt="Trip on Endomondo"></a></td>
-<td><a href="/images/pages/toppturer/fløyen.jpg" alt="Picture of Marte and me on top of Fløya">642 MASL</a></td>
+<td><time datetime="2015-07-25T11:18:00+02:00">25 July 2015</time></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo"></a>Skjennungstua</td>
+<td><a href="https://www.endomondo.com/resources/gfx/picture/25126912/big.jpg" alt="Picture of Marte and me on top of Fløya">470 MASL</a></td>
 </tr>
 
 </tbody>
