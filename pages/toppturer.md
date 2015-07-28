@@ -42,7 +42,7 @@ thumbnail: /images/pages/toppturer/tromsø.jpg
 <tr>
 <td><time datetime="2015-07-04T11:24:00+02:00">04 July 2015</time></td>
 <td><a href="https://www.endomondo.com/users/357581/workouts/554713297" alt="Trip on Endomondo">Gangsåstoppen</a></td>
-<td><a href="" alt="Picture of Marte and me on top of Fløya">172 MASL</a></td>
+<td>Should add picture - 172 MASL</a></td>
 </tr>
 
 <tr>
