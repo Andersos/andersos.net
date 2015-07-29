@@ -4,7 +4,7 @@ The personal blog of @Andersos
 
 ## Run it locally
 
-I am using Jekyll http://jekyllrb.com/
+I am using [Jekyll](http://jekyllrb.com/)
 
 ```shell
 bundle update
