@@ -20,6 +20,7 @@ Computer
 - Chromebook Samsung Series 5 550 2011-07-03
 - MacBook Pro (Retina, 15-tommers) 2013-09-30 - 2014-05-14
 - MacBook Pro (Retina, 15-tommers, sent 2013) Prosessor 2,6 GHz Intel Core i7 Minne 16 GB 1600 MHz DDR3 Grafikk NVIDIA GeForce GT 750M 2048 MB Serienummer C02MC1ZBFD59 2014-05-14 - 2015-07-31
+- MacBook Pro (Retina, 15-tommers, midten av 2015)Prosessor 2,8 GHz Intel Core i7 Minne 16 GB 1600 MHz DDR3 Grafikk AMD Radeon R9 M370X 2048 MB Serienummer C02PT1XKG8WM
 
 Other:
 - Kindle DX
