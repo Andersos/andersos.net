@@ -9,5 +9,7 @@ Pakkeliste
 
 Syden
 
-Fjelltur
+Fjelltur 
+
+Hyttetur
 
