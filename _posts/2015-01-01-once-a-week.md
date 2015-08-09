@@ -40,27 +40,27 @@ tags:
         </tr>
         <tr>
             <td class="success">15</td>
-            <td>16</td>
-            <td>17</td>
-            <td>18</td>
-            <td>19</td>
-            <td>20</td>
-            <td>21</td>
+            <td class="success">16</td>
+            <td class="success">17</td>
+            <td class="success">18</td>
+            <td class="success">19</td>
+            <td class="success">20</td>
+            <td class="success">21</td>
         </tr>
         <tr>
-            <td>22</td>
+            <td class="success">22</td>
             <td>23</td>
-            <td>24</td>
-            <td>25</td>
-            <td>26</td>
-            <td>27</td>
-            <td>28</td>
+            <td class="success">24</td>
+            <td class="success">25</td>
+            <td class="success">26</td>
+            <td class="success">27</td>
+            <td class="success">28</td>
         </tr>
         <tr>
-            <td>29</td>
-            <td>30</td>
-            <td>31</td>
-            <td>32</td>
+            <td class="success">29</td>
+            <td class="success">30</td>
+            <td class="success">31</td>
+            <td class="success">32</td>
             <td>33</td>
             <td>34</td>
             <td>35</td>
