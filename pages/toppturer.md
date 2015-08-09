@@ -35,6 +35,7 @@ thumbnail: /images/pages/toppturer/tromsø.jpg
 <th>Date</th>
 <th>Where</th>
 <th>MASL</th>
+<th>Elevation</th>
 </tr>
 </thead>
 <tbody>
@@ -43,24 +44,28 @@ thumbnail: /images/pages/toppturer/tromsø.jpg
 <td><time datetime="2015-07-04T11:24:00+02:00">04 July 2015</time></td>
 <td><a href="https://www.endomondo.com/users/357581/workouts/554713297" alt="Trip on Endomondo">Gangsåstoppen</a></td>
 <td>Should add picture - 172 MASL</a></td>
+<td>133 m</td>
 </tr>
 
 <tr>
 <td><time datetime="2015-07-08T14:50:00+02:00">08 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/5594415727" alt="Trip on Endomondo">Fløya</a></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/559441572" alt="Trip on Endomondo">Fløya</a></td>
 <td><a href="/images/pages/toppturer/fløyen.jpg" alt="Picture of Marte and me on top of Fløya">642 MASL</a></td>
-</tr>
-
-<tr>
-<td><time datetime="2015-07-25T11:18:00+02:00">25 July 2015</time></td>
-<td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo">Ullevålseter Sportsstue</a></td>
-<td><a href="https://www.endomondo.com/resources/gfx/picture/25126912/big.jpg" alt="Picture of Ann, Marte and me after trip to Skjennungstua">335 MASL</a></td>
+<td>250 m</td>
 </tr>
 
 <tr>
 <td><time datetime="2015-07-25T11:18:00+02:00">25 July 2015</time></td>
 <td><a href="https://www.endomondo.com/users/357581/workouts/567979676" alt="Trip on Endomondo">Skjennungstua</a></td>
 <td><a href="https://www.endomondo.com/resources/gfx/picture/25126912/big.jpg" alt="Picture of Ann, Marte and me after trip to Skjennungstua">470 MASL</a></td>
+<td>376 m</td>
+</tr>
+
+<tr>
+<td><time datetime="2015-08-09T10:33:00+02:00">9 August 2015</time></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/577944360" alt="Trip on Endomondo">Bitihorn</a></td>
+<td><a href="https://instagram.com/p/6KMjZYQRAK/" alt="Picture of Marte and me">1607 MASL</a></td>
+<td>550 m</td>
 </tr>
 
 </tbody>
