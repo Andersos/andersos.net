@@ -12,7 +12,7 @@ Phone:
 - Google Galaxy Nexus Titanium-Silver I9250 2011-12-14
 - iPhone 5S A1457 32GB 2013-09-30
 - Google Galaxy Nexus Titanium-Silver I9250 2015.07.31
-- To come
+- iPhone 6S
 
 Computer
 - Dell Inspiron 6000
