@@ -10,6 +10,7 @@ Pakkeliste
 Syden
 
 Fjelltur 
+- Telt
 
 Hyttetur
 
