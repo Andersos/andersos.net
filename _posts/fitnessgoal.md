@@ -13,6 +13,7 @@ tags:
 
 Menu
 You should not only reward achievement but also commitment.
+you should not only reward achievements but also commitment
 Blog post om Norrøna fitness goal 1 kroner per høydemeter
 
 1309
