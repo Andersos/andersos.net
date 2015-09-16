@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andersos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://andersos.net
+  * I am andersos (https://keybase.io/andersos) on keybase.
+  * I have a public key with fingerprint 8CBA 0D56 6576 1814 4F4F  51A3 9F7E 24AC 1EEF 34B4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014e445237882508c632bccb4c2872b50a8a98825e9edb87bd999341a1dd5ff8060a",
+            "fingerprint": "8cba0d56657618144f4f51a39f7e24ac1eef34b4",
+            "host": "keybase.io",
+            "key_id": "9f7e24ac1eef34b4",
+            "kid": "01014e445237882508c632bccb4c2872b50a8a98825e9edb87bd999341a1dd5ff8060a",
+            "uid": "f21b0dedf818df47a25b291fcdb0be00",
+            "username": "andersos"
+        },
+        "service": {
+            "hostname": "andersos.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442407545,
+    "expire_in": 157680000,
+    "prev": "2a119f78ca38c22b37a6dd94c27b0751bb054a77bc770611e97806f58e15cd36",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.46
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBVBGD6aZlpSJJJoFG1WUKI7s7O3U1KaBJ2iqIgQzOPMzqwu1u7x
+nD12TCoiT9FD9VBkdKOMrkZ2ASHywVLJMAoqRIku56WILpYUdqdZqZfosXkZ5v+/
+75vv//i7M8f4MpKqV22907kPNyX13WyO+tZ+oQ2NAnFog+BvFGrZ6MU2UBZxg7UW
+FfyCCESAGEIylFRNg7KoGYoEiWEQZEBNhUQWsYZ1r8V0RommEqrruoQABpTKpqmJ
+ioiFAsG07GoWDoUt2+WymkGwSGVFkVUFaAAhE5kywJJuqgwibADGTAkRxIk1TsRj
+cHMER1ih5fAafwRH7f0D/599R0flTAiISBk1NaBRE6kYygTqwDQoEQkTRQ8YYWEb
+b2QcjW3KwhEnImwpEHi13jKYF6w3yV+IQpu5nBsKO65jOBt4p8Z1Q36P6DaEPOQm
+RoK/NYLEsimPkRPqOdtybMEPONJwLU+UpwiRqMpILhBYLGSFWdDyEDxiTeTH+4bV
+c0mIAeDBaQaWNANCIqlYoVTnwaiE8wEhooywqhJDVUUFAKarPA1T1hiQDSopgjdV
+ne0Ifgi5T1zNNSNWtY3daJgJW251VqT4kjJ8Y1OTvf3yZaRP+rN1rf1p31I+F72d
+5Q61D1c+zm7D7aXqWrwwMXC+pOW8+TWt63T/5AtV8Swr6/iUiUcH1x0szax/03ZG
+v56JB8/2NFcd+dn14wppqsjdN3Ky9+Oxr8/KMvZfPDB7V6r1/dO9y0qHb9mavsDO
+F+UvziVTUvtkRmhbvnRoZO74+a/socTn2MCcFQHwfObd8pHu3twHJ05ml8YuB5bm
+mTiRgPmH3zW9Ltg/8jPvfUl8atH9nM5xxS8vra9bvPFVx+HsGygeS56GTrWtvDq9
+ZThHWPhod/q8CWU9SqdTXL68sXXo4YfCQNWeBduf5txm8blb+6/tKW73p0RXL2kN
+jc3dqw7WVm7eEcxftCPvFwYFQOo=
+=xqpu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andersos
+
+==================================================================
