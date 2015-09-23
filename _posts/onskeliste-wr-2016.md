@@ -12,7 +12,7 @@ tags:
 ---
 Ønskeliste for WebRebels 2016
 Tobias Koppers (WebPack/React)
-
+https://twitter.com/muanchiou
 Mathias litt mye node mer web
 React speaker
 Underscore fyreen / backbone
