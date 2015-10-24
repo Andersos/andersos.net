@@ -31,7 +31,16 @@ Buy <a href="http://www.amazon.com/gp/product/1616617667/ref=as_li_tl?ie=UTF8&ca
 
 # <a name="charlie-kane---the-politician"></a>Charlie Kane - The Politician
 
-<img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Blog responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9440869800966123"
+     data-ad-slot="5330750763"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 "It can be arranged. It's just a matter of acceptable terms."
 
