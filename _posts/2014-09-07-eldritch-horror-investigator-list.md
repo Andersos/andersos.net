@@ -25,12 +25,6 @@ tags:
 - [Jaqueline Fine - The Psychic (4&hearts; 8☘)](#jaqueline-fine---the-psychic)
 - [Diana Stanley - The Redeemed Cultist (7&hearts; 5☘)](#diana-stanley---the-redeemed-cultist)
 
-<div class="message">
-Buy <a href="http://www.amazon.com/gp/product/1616617667/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616617667&linkCode=as2&tag=andersos-20&linkId=3JBWFY2BFOFYQ6TI">Eldritch Horror</a>. 
-</div>
-
-# <a name="charlie-kane---the-politician"></a>Charlie Kane - The Politician
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Blog responsive -->
 <ins class="adsbygoogle"
@@ -41,6 +35,10 @@ Buy <a href="http://www.amazon.com/gp/product/1616617667/ref=as_li_tl?ie=UTF8&ca
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+# <a name="charlie-kane---the-politician"></a>Charlie Kane - The Politician
+
+<img src="http://4.bp.blogspot.com/-RsTAFzgUpfE/VAw8d9A1QII/AAAAAAAAbjc/SgjvtIbLJpk/s1600/10390053_10154229111155724_4615521497273107848_n.jpg" alt="Charlie Kane" height="320" width="281" />
 
 "It can be arranged. It's just a matter of acceptable terms."
 
