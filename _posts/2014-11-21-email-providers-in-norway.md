@@ -31,6 +31,17 @@ Yahoo 4,31%
 The lists under shows the domain, number registered and percent of total.
 At the end is the table of the more popular email service providers (this list is cut off at 2500). Watch this space in the future if this is information that interests you.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Blog responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9440869800966123"
+     data-ad-slot="5330750763"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Popular services:
 Microsoft 33,57% (sum of hotmail, live, msn and outlook)  
 hotmail.com (1106084 - 28.06%)  
