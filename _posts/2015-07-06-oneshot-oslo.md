@@ -18,7 +18,7 @@ tags:
 ## Mats Olsen
 Authentication with JSON Web Tokens ([Slides](https://github.com/mewwts/auth-examples/blob/master/slides/TokenAuth.pdf))
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides from my talk at <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a> available at <a href="https://t.co/DSZKmgvnO6">https://t.co/DSZKmgvnO6</a>. Thanks for listening!</p>&mdash; Mats Olsen (@mewwts) <a href="https://twitter.com/mewwts/status/602046156387024896">May 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Slides from my talk at <a href="https://twitter.com/nodeconfoslo">@nodeconfoslo</a> available at <a href="https://t.co/DSZKmgvnO6">https://t.co/DSZKmgvnO6</a>. Thanks for listening!</p>&mdash; Mats Olsen (@mewwts) <a href="https://twitter.com/mewwts/status/602046156387024896">May 23, 2015</a></blockquote>
 
 ## Mathias Buus
 Rethinking deployment for the future ([Slides](http://mafintosh.github.io/slides/oneshot-oslo-2015/)) ([Video](https://www.youtube.com/watch?v=2Sc6_XgNXyk))
@@ -28,19 +28,19 @@ Rethinking deployment for the future ([Slides](http://mafintosh.github.io/slides
 ## Magnus Green
 Azure + nodejs = true ([Slides](http://www.slideshare.net/magnushgreen/node-js-plus-azure-equals-true)) ([Video](https://www.youtube.com/watch?v=4bNVb2tkJqo))
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="lv" dir="ltr">NodeJS + Azure = true <a href="http://t.co/AxD4IOlqjU">http://t.co/AxD4IOlqjU</a> via <a href="https://twitter.com/SlideShare">@SlideShare</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/azure?src=hash">#azure</a> <a href="https://twitter.com/hashtag/oneshotoslo?src=hash">#oneshotoslo</a></p>&mdash; Magnus Green (@magnusg) <a href="https://twitter.com/magnusg/status/602842040997683201">May 25, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="lv" dir="ltr">NodeJS + Azure = true <a href="http://t.co/AxD4IOlqjU">http://t.co/AxD4IOlqjU</a> via <a href="https://twitter.com/SlideShare">@SlideShare</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/azure?src=hash">#azure</a> <a href="https://twitter.com/hashtag/nodeconfoslo?src=hash">#nodeconfoslo</a></p>&mdash; Magnus Green (@magnusg) <a href="https://twitter.com/magnusg/status/602842040997683201">May 25, 2015</a></blockquote>
 
 ## David Mark Clements
 Deploying microservices ([Slides](http://t.co/lMzw3LrmEs)) ([Video](https://www.youtube.com/watch?v=rB5SjxW6Sic))
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">PDF of slides for <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a> <a href="https://twitter.com/hashtag/microservices?src=hash">#microservices</a> talk: <a href="http://t.co/lMzw3LrmEs">http://t.co/lMzw3LrmEs</a>&#10;\cc <a href="https://twitter.com/digitalsadhu">@digitalsadhu</a></p>&mdash; David Mark Clements (@davidmarkclem) <a href="https://twitter.com/davidmarkclem/status/602118237485211648">May 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">PDF of slides for <a href="https://twitter.com/nodeconfoslo">@nodeconfoslo</a> <a href="https://twitter.com/hashtag/microservices?src=hash">#microservices</a> talk: <a href="http://t.co/lMzw3LrmEs">http://t.co/lMzw3LrmEs</a>&#10;\cc <a href="https://twitter.com/digitalsadhu">@digitalsadhu</a></p>&mdash; David Mark Clements (@davidmarkclem) <a href="https://twitter.com/davidmarkclem/status/602118237485211648">May 23, 2015</a></blockquote>
 
 ## Suz Hinton
 Don’t delete the datasheet - writing and publishing libraries for hardware in NodeJS ([Slides](http://t.co/1HmXNp87v2)) ([Video](https://www.youtube.com/watch?v=0uCpxvVoYHE))
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">For those wishing to read a deeper dive beyond the talk I did today, check out my blog post <a href="http://t.co/1HmXNp87v2">http://t.co/1HmXNp87v2</a> // cc <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a></p>&mdash; Suz Hinton (@noopkat) <a href="https://twitter.com/noopkat/status/602222046416916480">May 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">For those wishing to read a deeper dive beyond the talk I did today, check out my blog post <a href="http://t.co/1HmXNp87v2">http://t.co/1HmXNp87v2</a> // cc <a href="https://twitter.com/nodeconfoslo">@nodeconfoslo</a></p>&mdash; Suz Hinton (@noopkat) <a href="https://twitter.com/noopkat/status/602222046416916480">May 23, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Suz aka <a href="https://twitter.com/noopkat">@noopkat</a> about to tell us more about hardware hacking <a href="https://twitter.com/oneshotoslo">@oneshotoslo</a> <a href="http://t.co/DQNOWZMsU3">http://t.co/DQNOWZMsU3</a> <a href="http://t.co/Opv6i0WCCX">pic.twitter.com/Opv6i0WCCX</a></p>&mdash; Ceej engine (@ceejbot) <a href="https://twitter.com/ceejbot/status/602091982652055553">May 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Suz aka <a href="https://twitter.com/noopkat">@noopkat</a> about to tell us more about hardware hacking <a href="https://twitter.com/nodeconfoslo">@nodeconfoslo</a> <a href="http://t.co/DQNOWZMsU3">http://t.co/DQNOWZMsU3</a> <a href="http://t.co/Opv6i0WCCX">pic.twitter.com/Opv6i0WCCX</a></p>&mdash; Ceej engine (@ceejbot) <a href="https://twitter.com/ceejbot/status/602091982652055553">May 23, 2015</a></blockquote>
 
 ## Eirik Langholm Vullum
 Building a news aggregator using streams ([Slides](http://slides.com/eiriklv/building-a-news-aggregator-using-streams)) ([Video](https://www.youtube.com/watch?v=CX85mvvzBts))
@@ -48,7 +48,7 @@ Building a news aggregator using streams ([Slides](http://slides.com/eiriklv/bui
 ## C J Silverio
 Npm registry 2.0 deep dive ([Slides](https://t.co/9VLP55fuTs)) ([Video](https://www.youtube.com/watch?v=mGh3lW9oAgk))
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/oneshotoslo?src=hash">#oneshotoslo</a> slides! <a href="https://t.co/9VLP55fuTs">https://t.co/9VLP55fuTs</a>&#10;&#10;Source for the slides for this &amp; my <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> talk: <a href="https://t.co/AQzug9XdhU">https://t.co/AQzug9XdhU</a></p>&mdash; Ceej engine (@ceejbot) <a href="https://twitter.com/ceejbot/status/602147988341940225">May 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/nodeconfoslo?src=hash">#nodeconfoslo</a> slides! <a href="https://t.co/9VLP55fuTs">https://t.co/9VLP55fuTs</a>&#10;&#10;Source for the slides for this &amp; my <a href="https://twitter.com/hashtag/webrebels?src=hash">#webrebels</a> talk: <a href="https://t.co/AQzug9XdhU">https://t.co/AQzug9XdhU</a></p>&mdash; Ceej engine (@ceejbot) <a href="https://twitter.com/ceejbot/status/602147988341940225">May 23, 2015</a></blockquote>
 
 ## substack
 Some fun things to do with svg ([Video](https://www.youtube.com/watch?v=Fj1ED-rftvo))
