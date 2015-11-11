@@ -4,7 +4,7 @@ author: Anders Olsen Sandvik
 title: Wishlist for Web Rebels 2016
 date: 2015-11-03 22:00:00+01:00
 location: Oslo
-thumbnail: /images/2015-07-06-oneshot-oslo/logo.png
+thumbnail: /images/logo/webrebels.png
 tags:
 - Node.js
 - Oneshot
