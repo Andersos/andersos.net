@@ -7,7 +7,7 @@ location: Oslo
 thumbnail: /images/logo/.png
 scripts:
 tags:
--
+- Trondheim
 ---
 
 Samfundet
