@@ -12,4 +12,5 @@ tags:
 ---
 
 List of stuff from Praha
+
 Use the geojson from api to show map of what we did in Praha
