@@ -35,7 +35,7 @@ tags:
             <td class="success">10</td>
             <td class="success">11</td>
             <td class="success">12</td>
-            <td>13</td>
+            <td class="fail">13</td>
             <td class="success">14</td>
         </tr>
         <tr>
@@ -49,7 +49,7 @@ tags:
         </tr>
         <tr>
             <td class="success">22</td>
-            <td>23</td>
+            <td class="fail">23</td>
             <td class="success">24</td>
             <td class="success">25</td>
             <td class="success">26</td>
@@ -62,25 +62,25 @@ tags:
             <td class="success">31</td>
             <td class="success">32</td>
             <td class="success">33</td>
-            <td>34</td>
-            <td>35</td>
+            <td class="info">34</td>
+            <td class="info">35</td>
         </tr>
         <tr>
-            <td>36</td>
-            <td>37</td>
-            <td>38</td>
-            <td>39</td>
-            <td>40</td>
-            <td>41</td>
-            <td>42</td>
+            <td class="info">36</td>
+            <td class="info">37</td>
+            <td class="info">38</td>
+            <td class="info">39</td>
+            <td class="info">40</td>
+            <td class="info">41</td>
+            <td class="info">42</td>
         </tr>
         <tr>
             <td class="success">43</td>
             <td class="success">44</td>
-            <td>45</td>
-            <td>46</td>
-            <td>47</td>
-            <td>48</td>
+            <td class="fail">45</td>
+            <td class="fail">46</td>
+            <td class="fail">47</td>
+            <td class="fail">48</td>
             <td class="success">49</td>
         </tr>
         <tr>
