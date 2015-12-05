@@ -61,7 +61,7 @@ tags:
             <td class="success">30</td>
             <td class="success">31</td>
             <td class="success">32</td>
-            <td>33</td>
+            <td class="success">33</td>
             <td>34</td>
             <td>35</td>
         </tr>
@@ -75,13 +75,13 @@ tags:
             <td>42</td>
         </tr>
         <tr>
-            <td>43</td>
-            <td>44</td>
+            <td class="success">43</td>
+            <td class="success">44</td>
             <td>45</td>
             <td>46</td>
             <td>47</td>
             <td>48</td>
-            <td>49</td>
+            <td class="success">49</td>
         </tr>
         <tr>
             <td>50</td>
