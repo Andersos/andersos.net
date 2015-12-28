@@ -206,6 +206,10 @@ img {
     border-radius: .25rem;
 }
 
+.emoji {
+  display: inline;
+}
+
 
 /* Links */
 
