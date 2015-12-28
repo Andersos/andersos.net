@@ -10,3 +10,10 @@ published: false
 tags:
 - Conference
 ---
+
+:bust_in_silhouette: [Name](https://twitter.com/)  
+:movie_camera: [Video]()  
+:computer: [Slides]()  
+:link:  
+:memo: thoughts  
+tweet
