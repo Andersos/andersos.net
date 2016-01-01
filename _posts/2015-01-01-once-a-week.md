@@ -84,10 +84,10 @@ tags:
             <td class="success">49</td>
         </tr>
         <tr>
-            <td>50</td>
-            <td>51</td>
-            <td>52</td>
-            <td>53</td>
+            <td class="fail">50</td>
+            <td class="fail">51</td>
+            <td class="fail">52</td>
+            <td class="success">53</td>
             <td class="off">1</td>
             <td class="off">2</td>
             <td class="off">3</td>
