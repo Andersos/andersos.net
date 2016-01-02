@@ -15,7 +15,7 @@ tags:
 
 So my [girlfriend](http://goo.gl/0KAzRP) and I talked about trying out a new daily project. We ran a project like this before the time we walked over 15,000 steps each day for a week. So thinking back on that we thought we would be able to keep something going for a full month. We landed on, for the month of January, trying to read every day. The idea of having a daily challenge was a little inspired by [Matt Cutts 30 days](https://www.mattcutts.com/blog/30-days/). Some people say that 30 days is enough time to build a habit. So maybe this project will improve our lives in some way. There are at least some [benefits](http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html) for reading daily.
 
-We also talked about other challenges we could do like: walking 10,000 steps each day, no social media, no soda, no tv, film [1 second everyday](https://itunes.apple.com/us/app/1-second-everyday/id587823548), walk to work or school and so on. We will see how it works out.
+We also talked about other challenges we could do like: walking 10,000 steps each day, no social media, no soda, no tv, film [1 second everyday](https://geo.itunes.apple.com/us/app/1-second-everyday/id587823548?mt=8&at=10lSys), walk to work or school and so on. We will see how it works out.
 
 I made a calendar so we can keep track of the progress. I also made a calendar for a project I wanted to work on [every week](http://andersos.net/2015/01/01/once-a-week/) of this year.
 
