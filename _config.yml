@@ -10,7 +10,6 @@ description: I make great services people like to use!
 exclude: [vendor]
 timezone: Europe/Oslo
 permalink: pretty
-relative_permalinks: true
 markdown: redcarpet
 jekyll-mentions: https://twitter.com
 gems:
