@@ -5,7 +5,7 @@ layout: default
     <div class="archive">
         {% for post in site.posts %}
         <div class="archive-item">
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date archive-date">{{ post.date | date_to_string }}</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="archive-date">{{ post.date | date_to_string }}</time>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </div>
         {% endfor %}

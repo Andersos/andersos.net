@@ -331,9 +331,7 @@ background-color: #eee;
     margin: .5rem 0 0;
 }
 
-.post-date {
-    display: block;
-    margin: -.5rem 0 .5rem;
+.byline {
     color: #ccc;
 }
 
