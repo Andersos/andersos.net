@@ -134,7 +134,7 @@ http://www.myepisodes.com/
 ## Movies
 
 I always try to [check in](http://www.imdb.com/user/ur27912633/checkins) and rate movies I watch.
-In 2014 I watched 55 movies. That is a little more than a movie a week. I rated the movies at an average of 6.4 out of 10. I also made a table of the movies from 2014.
+In 2014 I watched ?? movies. That is a little more than a movie a week update. I rated the movies at an average of 6.4?? correct out of 10. I also made a table of the movies from 2014.
 
 <table id="movies">
 <tr class="no-sort">
@@ -142,69 +142,6 @@ In 2014 I watched 55 movies. That is a little more than a movie a week. I rated 
 <th data-sort-method="date">Year</th>
 <th data-sort-method="number">Rating</th>
 <th data-sort-method="monthname">Date</th>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.comhttp://www.imdb.com/title/tt4368814/">Live at the Comedy Store</a></td>
-<td>2015</td>
-<td>6</a>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt1528100/">Exodus: Gods and Kings</a></td>
-<td>2014</td>
-<td>3</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt1698641/">Alexander and the Bad Day</a></td>
-<td>2014</td>
-<td>4</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt0454921/">The Pursuit of Happyness</a></td>
-<td>2006</td>
-<td>10</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt2140619/">Two Night Stand</a></td>
-<td>2014</td>
-<td>3</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt0477347/">Night at the Museum</a></td>
-<td>2006</td>
-<td>4</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt1109624/">Paddington</a></td>
-<td>2014</td>
-<td>6</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt2170439/">Horrible Bosses 2</a></td>
-<td>2014</td>
-<td>8</td>
-<td>December</td>
-</tr>
-
-<tr>
-<td><a href="http://www.imdb.com/title/tt2872732/">Lucy</a></td>
-<td>2014</td>
-<td>3</td>
-<td>December</td>
 </tr>
 
 <tr>
