@@ -12,5 +12,7 @@ permalink: /conferences/index.html
 <li>[Smidig 2015](http://andersos.net/2015/11/02/smidig-day-1-2015/)</li>
 <li>[dotCss 2015](http://andersos.net/2015/12/30/dotcss-2015/)</li>
 <li>dotJS 2015</li>
-<li></li>
+<li>CSSconf Nordic 2016</li>
+<li>Web Rebels 2016</li>
+<li>NodeConf Oslo 2016</li>
 </ul>
