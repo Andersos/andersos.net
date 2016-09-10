@@ -15,4 +15,5 @@ permalink: /conferences/index.html
 <li>CSSconf Nordic 2016</li>
 <li>Web Rebels 2016</li>
 <li>NodeConf Oslo 2016</li>
+Javazone 2016
 </ul>
