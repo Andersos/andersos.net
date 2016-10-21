@@ -8,7 +8,7 @@ I am using [Jekyll](http://jekyllrb.com/)
 
 ```shell
 bundle update
-bundle exec jekyll serve
+bundle exec jekyll serve --port 8080
 ```
 
 ## Testing
