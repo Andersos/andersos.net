@@ -1,6 +1,8 @@
 language: ruby
 rvm: 2.3
 cache: bundler
+before_install:
+- export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 script: "bundle exec jekyll build && rake test"
 branches:
   only:
