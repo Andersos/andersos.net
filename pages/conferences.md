@@ -16,4 +16,5 @@ permalink: /conferences/index.html
 <li>Web Rebels 2016</li>
 <li>NodeConf Oslo 2016</li>
 Javazone 2016
+Webdagene 2016
 </ul>
