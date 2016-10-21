@@ -1,7 +1,7 @@
 language: ruby
-rvm: 2.3.1
+rvm: 2.3
 cache: bundler
-script: "bundle exec jekyll build && rake test --trace"
+script: "bundle exec jekyll build && rake test"
 branches:
   only:
   - gh-pages
