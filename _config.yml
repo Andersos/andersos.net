@@ -12,7 +12,10 @@ timezone: Europe/Oslo
 permalink: pretty
 markdown: kramdown
 jekyll-mentions: https://twitter.com
+feed:
+  path: atom.xml
 gems:
   - jekyll-redirect-from
   - jemoji
+  - jekyll-feed
   - jekyll-mentions
