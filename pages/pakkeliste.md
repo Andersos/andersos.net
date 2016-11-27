@@ -2,6 +2,7 @@
 layout: page
 title: Pakkeliste
 thumbnail: /images/pages/toppturer
+permalink: /pakkeliste
 ---
 Hvor mange dager
 Pakkeliste
@@ -13,4 +14,3 @@ Fjelltur
 - Telt
 
 Hyttetur
-

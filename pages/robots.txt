@@ -1,3 +1,7 @@
+---
+layout: null
+permalink: /robots.txt
+---
 User-agent: *
 Disallow:
 Sitemap: http://andersos.net/sitemap.xml

@@ -2,6 +2,7 @@
 layout: page
 title: Toppturer
 thumbnail: /images/pages/toppturer/tromsø.jpg
+permalink: /topturer
 ---
 <style>
 .callout {

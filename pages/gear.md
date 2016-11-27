@@ -2,6 +2,7 @@
 layout: page
 title: Gear
 thumbnail: /images/
+permalink: /gear
 ---
 
 Phone:
