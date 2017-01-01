@@ -19,3 +19,4 @@ gems:
   - jemoji
   - jekyll-feed
   - jekyll-mentions
+  - jekyll-sitemap
