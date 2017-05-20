@@ -17,4 +17,8 @@ permalink: /conferences
 <li>NodeConf Oslo 2016</li>
 <li>Javazone 2016</li>
 <li>Webdagene 2016</li>
+yggdrasil 2017
+cssconfeu 2017
+jsconfeu 2017
+web rebels 2017
 </ul>
