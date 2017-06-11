@@ -9,6 +9,7 @@ Pakkeliste
 
 
 Syden
+Tips forlat et bankkort på hotellrommet for bruk dersom lommeboken skulle forsvinne
 
 Fjelltur 
 - Telt
