@@ -77,5 +77,12 @@ permalink: /topturer
 <td>614 m</td>
 </tr>
 
+<tr>
+<td><time datetime="2017-07-22T11:17:00+02:00">22 Juli 2017</time></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/967657937" alt="Trip on Endomondo">Preikestolen</a></td>
+<td><a href="https://instagram.com/" alt="Picture of Marte and me">604 MASL</a></td>
+<td>311 m</td>
+</tr>
+
 </tbody>
 </table>
