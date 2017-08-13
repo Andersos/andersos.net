@@ -69,5 +69,13 @@ permalink: /topturer
 <td>550 m</td>
 </tr>
 
+
+<tr>
+<td><time datetime="2017-07-19T13:30:00+02:00">19 Juli 2017</time></td>
+<td><a href="https://www.endomondo.com/users/357581/workouts/966541827" alt="Trip on Endomondo">Kjeragbolten</a></td>
+<td><a href="https://instagram.com/" alt="Picture of Marte and me">1110 MASL</a></td>
+<td>614 m</td>
+</tr>
+
 </tbody>
 </table>
