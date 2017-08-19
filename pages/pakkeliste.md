@@ -33,3 +33,27 @@ genser tykk og varm
 1 tee
 magnus karlen genser ikke brukt
 stilongs
+
+
+Pakkeliste
+Regntøy
+Tynn vindjakke og turbukse
+Undertøy i ull
+Sokker med mye ull 
+Fleecejakke
+Lue
+Ullvotter
+Fjellstøvler
+Shorts og t-skjorte
+ryggsekk
+vantett pose
+Sovepose
+førstehjelpssaker
+toalettsaker
+toalettpapir
+solbriller
+solkrem
+kniv
+fyrstikker
+hodelykt
+mat
