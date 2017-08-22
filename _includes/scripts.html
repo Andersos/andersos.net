@@ -1,3 +1,5 @@
+<script src="https://cdn.ravenjs.com/3.17.0/raven.min.js" crossorigin="anonymous"></script>
+Raven.config('https://0e33afe4403e4c3cb9c056162458bbcc@sentry.io/206690').install()
 {% for script in page.scripts %}
   {% if script == 'twitter' %}
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{% endif %}
