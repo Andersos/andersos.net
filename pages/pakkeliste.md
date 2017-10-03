@@ -12,17 +12,18 @@ Syden
 Tips forlat et bankkort på hotellrommet for bruk dersom lommeboken skulle forsvinne
 hals støtte neste flytur liste. Sånn pute rundt halsen
 
-Fjelltur 
+Fjelltur
 - Telt
 
 Hyttetur
 
-Helgetur
+
+Snowboardtur
 Snowboard, hjelm, snowboardbriller, snowboardsko.
 Turkis norrøna snowboard bukse
 ull vanter
 ull hals
-badebukse yakuzi
+badebukse jacuzzi
 treningsbukse
 2 sokker burde ta med mer også ulvang sokker
 lumberjack shirt
@@ -39,7 +40,7 @@ Pakkeliste
 Regntøy
 Tynn vindjakke og turbukse
 Undertøy i ull
-Sokker med mye ull 
+Sokker med mye ull
 Fleecejakke
 Lue
 Ullvotter
