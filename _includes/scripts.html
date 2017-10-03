@@ -1,5 +1,5 @@
 <script src="https://cdn.ravenjs.com/3.17.0/raven.min.js" crossorigin="anonymous"></script>
-Raven.config('https://0e33afe4403e4c3cb9c056162458bbcc@sentry.io/206690').install()
+<script>Raven.config('https://0e33afe4403e4c3cb9c056162458bbcc@sentry.io/206690').install()</script>
 {% for script in page.scripts %}
   {% if script == 'twitter' %}
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{% endif %}
@@ -17,5 +17,3 @@ Raven.config('https://0e33afe4403e4c3cb9c056162458bbcc@sentry.io/206690').instal
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js" charset="utf-8"></script>{% endif %}
 {% endfor %}
-
-
