@@ -1,0 +1,228 @@
+---
+layout: page
+title: Skritt
+thumbnail: /images/2015-06-28-10-for-grete/thumbnail.jpg
+permalink: /skritt
+scripts: c3
+---
+
+<style>
+.row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  width: 222px;
+}
+.number {
+  font-size: 50px;
+  color: #57c2be;
+  text-align: center;
+}
+.caption {
+  text-align: center;
+}
+</style>
+
+<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in latest year</h2>
+<div class="row">
+
+  <div class="item">
+    <div class="number">
+    3,000,000
+    </div>
+    <div class="caption">
+    Goal
+    </div>
+  </div>
+
+  <div class="item">
+    <div id="stepslatest" class="number">000,000</div>
+    <div id="stepslatestdate" class="caption">Total as of 2016-01-01</div>
+  </div>
+
+  <div class="item">
+    <div id="remaininglatest" class="number">3,000,000</div>
+    <div class="caption">Remaining</div>
+  </div>
+
+  <div class="item">
+    <div class="number">8,197</div>
+    <div class="caption">Daily goal</div>
+  </div>
+
+  <div class="item">
+    <div id="dailyAvg" class="number">0,000</div>
+    <div class="caption">Daily achived</div>
+  </div>
+
+  <div class="item">
+    <div id="dailyNeed" class="number">0,000</div>
+    <div class="caption">Daily necessary</div>
+  </div>
+
+</div>
+
+<div id="stepsdaily2016"></div>
+<div id="stepsdaily"></div>
+
+I have been keeping track of my activity since the middle of 2014.
+
+<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in 2015</h2>
+<div class="row">
+
+  <div class="item">
+    <div class="number">
+    2,457,492
+    </div>
+    <div class="caption">
+    Steps in 2015
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="number">6,733</div>
+    <div class="caption">Average daily steps</div>
+  </div>
+
+</div>
+
+<div id="stepsdaily2015"></div>
+
+<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in 2014</h2>
+<p style="text-align: center;">as of 2014-05-27</p>
+<div class="row">
+
+  <div class="item">
+    <div class="number">
+    1,625,712
+    </div>
+    <div class="caption">
+    Steps in 2014
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="number">7,423</div>
+    <div class="caption">Average daily steps</div>
+  </div>
+
+</div>
+
+<div id="stepsdaily2014"></div>
+
+
+<script>
+function ready(fn) {
+  if (document.readyState != 'loading'){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
+
+var allSteps = Array(5);
+var stepArrayGoal = Array(367).fill(8197);
+stepArrayGoal[0] = 'Goal';
+var lastDateMeasured = 0;
+
+var stepsin2017 = 0;
+var stepArray2017 = ['2017'];
+var daysin2017 = 0;
+
+var stepsin2016 = 0;
+var stepArray2016 = ['2016'];
+var daysin2016 = 0;
+
+var stepsin2015 = 0;
+var stepArray2015 = ['2015'];
+var daysin2015 = 0;
+
+var stepsin2014 = 0;
+var stepArray2014 = Array(147).fill(0);
+stepArray2014[0] = '2014';
+var daysin2014 = 0;
+
+function fillElement(id, content) {
+  document.getElementById(id).innerHTML = content.toLocaleString("en-US");
+}
+
+function updateNumbers(steps, days, date) {
+  var rem = 3000000 - steps;
+  fillElement('stepslatest', steps);
+  fillElement('stepslatestdate', 'Total as of ' + date);
+  fillElement('remaininglatest', rem);
+  fillElement('dailyAvg', Math.round(steps/days));
+  fillElement('dailyNeed', Math.round(rem/(366-days)));
+}
+
+function cumulative(arr) {
+  var newArr = arr.slice();
+  for(var i = 1; i < arr.length; i++) {
+    if(i === 1) {
+      newArr[0] = arr[0];
+      newArr[1] = arr[1];
+    } else {
+      newArr[i] = newArr[i-1] + arr[i];
+    }
+  }
+  return newArr;
+}
+
+function graph(id, data, type) {
+  c3.generate({
+    bindto: id,
+    data: {
+      columns: data,
+      type: type
+    },
+    bar: {}
+  });
+}
+
+function draw() {
+  fetch("http://api.andersos.net/activity.json")
+  .then(function (response) {
+    response.json()
+    .then(function (activities) {
+      for(i = 0; i < activities.length; i++) {
+        if (activities[i].date.includes("2016")) {
+          stepArray2016.push(activities[i].steps);
+          stepsin2016 += activities[i].steps;
+          daysin2016 += 1;
+        }
+        if (activities[i].date.includes("2015")) {
+          stepArray2015.push(activities[i].steps);
+          stepsin2015 += activities[i].steps;
+          daysin2015 += 1;
+        }
+        if (activities[i].date.includes("2014")) {
+          stepArray2014.push(activities[i+147].steps);
+          stepsin2014 += activities[i].steps;
+          daysin2014 += 1;
+        }
+        if (activities[i].date.includes("2017")) {
+          stepArray2017.push(activities[i].steps);
+          stepsin2017 += activities[i].steps;
+          daysin2017 += 1;
+        }
+      }
+      updateNumbers(stepsin2017, stepArray2017.length - 1, lastDateMeasured);
+      graph('#stepsdaily2017', [ stepArray2017 ], 'bar');
+      graph('#stepsdaily2016', [ stepArray2016 ], 'bar');
+      graph('#stepsdaily2015', [ stepArray2015 ], 'bar');
+      graph('#stepsdaily2014', [ stepArray2014 ], 'bar');
+      allSteps[0] = cumulative(stepArrayGoal);
+      allSteps[1] = cumulative(stepArray2017);
+      allSteps[2] = cumulative(stepArray2016);
+      allSteps[3] = cumulative(stepArray2015);
+      allSteps[4] = cumulative(stepArray2014);
+      graph('#stepsdaily', allSteps, 'line');
+    })
+  })
+}
+
+ready(draw);
+</script>
