@@ -7,6 +7,12 @@ scripts: c3
 ---
 
 <style>
+.heading {
+  text-align: center;
+  color: #c2575b;
+  font-weight: normal;
+  margin-top: 40px;
+}
 .row {
   display: flex;
   flex-flow: row wrap;
@@ -14,10 +20,10 @@ scripts: c3
   align-items: center;
 }
 .item {
-  width: 222px;
+  min-width: 222px;
 }
 .number {
-  font-size: 50px;
+  font-size: 40px;
   color: #57c2be;
   text-align: center;
 }
@@ -26,26 +32,24 @@ scripts: c3
 }
 </style>
 
-<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in latest year</h2>
+<h2 class="heading">Steps in latest year</h2>
 <div class="row">
 
   <div class="item">
-    <div class="number">
-    3,000,000
-    </div>
-    <div class="caption">
-    Goal
-    </div>
-  </div>
-
-  <div class="item">
-    <div id="stepslatest" class="number">000,000</div>
+    <div id="stepslatest" class="number">0,000,000</div>
     <div id="stepslatestdate" class="caption">Total as of 2016-01-01</div>
   </div>
 
   <div class="item">
     <div id="remaininglatest" class="number">3,000,000</div>
     <div class="caption">Remaining</div>
+  </div>
+
+  <div class="item">
+    <div id="predicted" class="number">3,000,000</div>
+    <div class="caption">
+      Predicted
+    </div>
   </div>
 
   <div class="item">
@@ -65,12 +69,31 @@ scripts: c3
 
 </div>
 
-<div id="stepsdaily2016"></div>
+<div id="stepsdaily2017"></div>
 <div id="stepsdaily"></div>
 
-I have been keeping track of my activity since the middle of 2014.
+<h2 class="heading">Steps in 2016</h2>
+<div class="row">
 
-<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in 2015</h2>
+  <div class="item">
+    <div class="number">
+    2,568,660
+    </div>
+    <div class="caption">
+    Steps in 2016
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="number">7,018</div>
+    <div class="caption">Average daily steps</div>
+  </div>
+
+</div>
+
+<div id="stepsdaily2016"></div>
+
+<h2 class="heading">Steps in 2015</h2>
 <div class="row">
 
   <div class="item">
@@ -91,7 +114,7 @@ I have been keeping track of my activity since the middle of 2014.
 
 <div id="stepsdaily2015"></div>
 
-<h2 style="text-align: center; color: #c2575b; font-weight: normal;">Steps in 2014</h2>
+<h2 class="heading">Steps in 2014</h2>
 <p style="text-align: center;">as of 2014-05-27</p>
 <div class="row">
 
@@ -151,11 +174,13 @@ function fillElement(id, content) {
 
 function updateNumbers(steps, days, date) {
   var rem = 3000000 - steps;
+  const avg = Math.round(steps/days)
   fillElement('stepslatest', steps);
   fillElement('stepslatestdate', 'Total as of ' + date);
   fillElement('remaininglatest', rem);
-  fillElement('dailyAvg', Math.round(steps/days));
+  fillElement('dailyAvg', avg);
   fillElement('dailyNeed', Math.round(rem/(366-days)));
+  fillElement('predicted', Math.round(avg*365));
 }
 
 function cumulative(arr) {
@@ -188,6 +213,11 @@ function draw() {
     response.json()
     .then(function (activities) {
       for(i = 0; i < activities.length; i++) {
+        if (activities[i].date.includes("2017")) {
+          stepArray2017.push(activities[i].steps);
+          stepsin2017 += activities[i].steps;
+          daysin2017 += 1;
+        }
         if (activities[i].date.includes("2016")) {
           stepArray2016.push(activities[i].steps);
           stepsin2016 += activities[i].steps;
@@ -203,11 +233,7 @@ function draw() {
           stepsin2014 += activities[i].steps;
           daysin2014 += 1;
         }
-        if (activities[i].date.includes("2017")) {
-          stepArray2017.push(activities[i].steps);
-          stepsin2017 += activities[i].steps;
-          daysin2017 += 1;
-        }
+        lastDateMeasured = activities[i].date;
       }
       updateNumbers(stepsin2017, stepArray2017.length - 1, lastDateMeasured);
       graph('#stepsdaily2017', [ stepArray2017 ], 'bar');
