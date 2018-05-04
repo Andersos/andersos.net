@@ -1,6 +1,6 @@
 # [andersos.net](http://andersos.net/) [![Build Status](https://travis-ci.org/Andersos/andersos.net.svg)](https://travis-ci.org/Andersos/andersos.net)
 
-The personal blog of @Andersos
+The personal blog of @Andersos 
 
 ## Run it locally
 
