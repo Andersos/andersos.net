@@ -3,7 +3,7 @@ layout: post
 title: Big update of Windows XP on the way!
 date: 2007-08-14 22:15:28 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
