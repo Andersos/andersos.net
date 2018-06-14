@@ -3,7 +3,7 @@ layout: post
 title: 16/8 - Getting a Haircut
 date: 2007-08-16 22:30:33 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
