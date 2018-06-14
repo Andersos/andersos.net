@@ -3,7 +3,7 @@ layout: post
 title: 12/8 - Grand Prix in Oslo
 date: 2007-08-12 23:15:14 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
