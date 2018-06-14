@@ -3,7 +3,7 @@ layout: post
 title: 14/8 - Driving Teacher
 date: 2007-08-14 22:30:54 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
