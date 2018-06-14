@@ -3,7 +3,7 @@ layout: post
 title: 20/8 - First day of school
 date: 2007-08-20 23:50:27 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
