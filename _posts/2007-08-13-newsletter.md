@@ -3,7 +3,7 @@ layout: post
 title: 13/8 - Newsletter
 date: 2007-08-13 23:35:16 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
