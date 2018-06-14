@@ -5,6 +5,7 @@ title: Old blogposts
 date: 2017-01-03 18:00:00
 location: Oslo
 thumbnail: /images/2015-06-28-10-for-grete/thumbnail.jpg
+published: false
 scripts:
 tags:
 - wordpress
