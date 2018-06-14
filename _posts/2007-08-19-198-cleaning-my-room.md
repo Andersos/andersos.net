@@ -3,7 +3,7 @@ layout: post
 title: 19/8 - Cleaning my room
 date: 2007-08-19 22:00:13 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
