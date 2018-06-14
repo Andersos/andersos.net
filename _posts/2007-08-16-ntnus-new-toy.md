@@ -3,7 +3,7 @@ layout: post
 title: NTNU's new toy!
 date: 2007-08-16 10:15:00 +02:00
 type: post
-published: true
+published: false
 scripts:
 thumbnail:
 author: Anders Olsen Sandvik
