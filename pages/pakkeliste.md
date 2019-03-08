@@ -9,8 +9,6 @@ Pakkeliste
 
 
 Syden
-Tips forlat et bankkort på hotellrommet for bruk dersom lommeboken skulle forsvinne
-hals støtte neste flytur liste. Sånn pute rundt halsen
 
 Fjelltur
 - Telt
