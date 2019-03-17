@@ -14,6 +14,10 @@ Bruke emojies før og etter.
 Fylle inn antall dager altså med en slider også endrer tallene seg der det er tall.
 Det burde også være en dropdown av noe slag eller en select boks som velger mellom varmt sol, kaldt snowboard og teltur
 
+
+koble tv til data ledning inn på listen
+
+
 Syden
 
 Fjelltur
