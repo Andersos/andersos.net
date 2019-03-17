@@ -2,7 +2,7 @@
 layout: page
 title: Pakkeliste
 thumbnail: /images/pages/toppturer
-permalink: /pakkeliste
+permalink: /pakkelister
 ---
 Hvor mange dager
 Pakkeliste
