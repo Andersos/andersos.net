@@ -22,4 +22,6 @@ permalink: /conferences
 <li>jsconfeu 2017</li>
 <li>web rebels 2017</li>
 <li>Webdagene 2017</li>
+  <li>Web Rebels 2018</li>
+  <li>Javazone 2019</li>
 </ul>
