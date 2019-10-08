@@ -11,9 +11,4 @@ bundle update
 bundle exec jekyll serve --port 8080
 ```
 
-## Testing
-```shell
-rake test
 
---profile flag can be used to analyse build time
-```
