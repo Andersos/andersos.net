@@ -27,6 +27,7 @@ Computer
 - MacBook Pro (Retina, 15-tommers, midten av 2015)Prosessor 2,8 GHz Intel Core i7 Minne 16 GB 1600 MHz DDR3 Grafikk AMD Radeon R9 M370X 2048 MB Serienummer C02PT1XKG8WM 03.08.2015
 - MacBook Pro (Retina, 13-inch, Late 2013) Prosessor 2,6 GHz Intel Core i5 Minne 8 GB 1600 MHz DDR3 Grafikk Intel Iris 1536 MB Serienummer C02MP0SKFH01 03.10.2016
 - MacBook Pro 03.01.2017
+- MacBook Pro (Retina, 15-inch, Mid 2014) 27-06-2019 Serienummer C02P24HRG3QC
 
 Other:
 - Kindle DX
