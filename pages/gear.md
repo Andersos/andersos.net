@@ -15,6 +15,7 @@ Phone:
 - Google Galaxy Nexus Titanium-Silver I9250 2015.07.31
 - iPhone 6S 30.10.2015
 - iPhone 7 18.10.2016
+- iPhone 11 7.02.2020
 
 Computer
 - Dell Inspiron 6000
@@ -30,4 +31,3 @@ Computer
 Other:
 - Kindle DX
 - iPad Air 2013-11-01 - 2015.07.31
-- Apple Thunderbolt Display 27-tommers (2560 x 1440) Grafikk: NVIDIA GeForce GT 750M 2048 MB
